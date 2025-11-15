@@ -181,7 +181,7 @@ def incrementLocationsInKeywords(data):
     #print(['incrementLocationsInKeywords data',data]) 
     quote = str(data['title'])+'. ' +str(data['description'])+' '+str(data['content'])
     #lang = data['language'] 
-    blob = TextBlob(quote)
+    blob = TextBlob(quote, pos_tagger=PatternTagger(), analyzer=PatternAnalyzer())
     locationsDone = []
     for sentence in blob.sentences:
         #sentence.sentiment.polarity
