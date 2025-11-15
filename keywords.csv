@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Terres australes françaises',fr,French Southern Territories,#D05BAA,#D05BAA,2,1.000300030000
-'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#5F1EDA,#5F1EDA,2,1.000000000000
-'Île Heard et îles McDonald',fr,Heard Island and McDonald Islands,#CC0D08,#CC0D08,2,1.000000000000
-'Cité du Vatican',fr,Vatican,#747237,#747237,2,1.000000000000
-'Antarctique',fr,Antarctica,#F24905,#F24905,2,1.000000000000
-'Île Bouvet',fr,Bouvet Island,#FD3E7A,#FD3E7A,2,1.000000000000
 'Ouest-de-l'Île',fr,Cocos Islands,#32ED20,#32ED20,2,1.000000000000
-'Îles Cocos',fr,Cocos Islands,#32ED20,#32ED20,2,1.000000000000
-'Adamstown',fr,Pitcairn,#9B50CD,#9B50CD,2,1.000000000000
-'Port-aux-Français',fr,French Southern Territories,#D05BAA,#D05BAA,2,1.000000000000
 'Pitcairn',fr,Pitcairn,#9B50CD,#9B50CD,2,1.000000000000
+'Port-aux-Français',fr,French Southern Territories,#D05BAA,#D05BAA,2,1.000000000000
+'Adamstown',fr,Pitcairn,#9B50CD,#9B50CD,2,1.000000000000
+'Îles Cocos',fr,Cocos Islands,#32ED20,#32ED20,2,1.000000000000
+'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#5F1EDA,#5F1EDA,2,1.000000000000
+'Île Bouvet',fr,Bouvet Island,#FD3E7A,#FD3E7A,2,1.000000000000
+'Île Heard et îles McDonald',fr,Heard Island and McDonald Islands,#CC0D08,#CC0D08,2,1.000000000000
+'Antarctique',fr,Antarctica,#F24905,#F24905,2,1.000000000000
+'Cité du Vatican',fr,Vatican,#747237,#747237,2,1.000000000000
 'Vatican',fr,Vatican,#747237,#747237,3,0.946586833871
+'Terres australes françaises',fr,French Southern Territories,#D05BAA,#D05BAA,1,0.850255055500
 'Géorgie du Sud et îles Sandwich du Sud',fr,South Georgia and the South Sandwich Islands,#0CC97F,#0CC97F,1,0.850000000000
 'Grytviken',fr,South Georgia and the South Sandwich Islands,#0CC97F,#0CC97F,1,0.850000000000
 'Tokélaou',fr,Tokelau,#05147B,#05147B,2,0.782128240109
@@ -21,10 +21,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alofi',fr,Niue,#C2AF9B,#C2AF9B,2,0.561680517082
 'Longyearbyen',fr,Svalbard and Jan Mayen,#A4B0D3,#A4B0D3,2,0.492156862745
 'Svalbard et Jan Mayen',fr,Svalbard and Jan Mayen,#A4B0D3,#A4B0D3,2,0.492156862745
-'Îles Falkland',fr,Falkland Islands,#997E6E,#997E6E,2,0.479075056861
 'Stanley',fr,Falkland Islands,#997E6E,#997E6E,2,0.479075056861
-'Territoire britannique de l'océan Indien',fr,British Indian Ocean Territory,#55BF2B,#55BF2B,2,0.350000000000
+'Îles Falkland',fr,Falkland Islands,#997E6E,#997E6E,2,0.479075056861
 'Diego García',fr,British Indian Ocean Territory,#55BF2B,#55BF2B,2,0.350000000000
+'Territoire britannique de l'océan Indien',fr,British Indian Ocean Territory,#55BF2B,#55BF2B,2,0.350000000000
 'Saint-Pierre-et-Miquelon',fr,Saint Pierre and Miquelon,#FC2079,#FC2079,2,0.242612664005
 'Saint Pierre',fr,Saint Pierre and Miquelon,#FC2079,#FC2079,2,0.242612664005
 'Sainte-Hélène',fr,Saint Helena,#A593E2,#A593E2,2,0.234048257373
@@ -33,8 +33,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saint Barthélemy',fr,Saint Barthelemy,#85D6CD,#85D6CD,2,0.218343195266
 'Montserrat',fr,Montserrat,#58CB7E,#58CB7E,2,0.207054919174
 'Plymouth',fr,Montserrat,#58CB7E,#58CB7E,2,0.207054919174
-'Funafuti',fr,Tuvalu,#306D78,#306D78,2,0.186896072298
 'Tuvalu',fr,Tuvalu,#306D78,#306D78,2,0.186896072298
+'Funafuti',fr,Tuvalu,#306D78,#306D78,2,0.186896072298
 'Nauru',fr,Nauru,#78D18A,#78D18A,2,0.178715365239
 'Yaren',fr,Nauru,#78D18A,#78D18A,2,0.178715365239
 'Anguilla',fr,Anguilla,#EC8DDD,#EC8DDD,2,0.175448921080
@@ -63,10 +63,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipsbourg',fr,Sint Maarten,#A0A87E,#A0A87E,2,0.124597825552
 'Îles Féroé',fr,Faroe Islands,#B3F796,#B3F796,2,0.120619832155
 'Tórshavn',fr,Faroe Islands,#B3F796,#B3F796,2,0.120619832155
-'Basseterre',fr,Saint Kitts and Nevis,#5049A0,#5049A0,2,0.119069049027
 'Saint-Kitts-et-Nevis',fr,Saint Kitts and Nevis,#5049A0,#5049A0,2,0.119069049027
-'Pago Pago',fr,American Samoa,#0C906D,#0C906D,2,0.118029387902
+'Basseterre',fr,Saint Kitts and Nevis,#5049A0,#5049A0,2,0.119069049027
 'Samoa américaines',fr,American Samoa,#0C906D,#0C906D,2,0.118029387902
+'Pago Pago',fr,American Samoa,#0C906D,#0C906D,2,0.118029387902
 'Groenland',fr,Greenland,#E873A3,#E873A3,2,0.117849174476
 'Nuuk',fr,Greenland,#E873A3,#E873A3,2,0.117849174476
 'Saipan',fr,Northern Mariana Islands,#3CB91A,#3CB91A,2,0.117580253859
@@ -77,8 +77,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bermudes',fr,Bermuda,#9F124E,#9F124E,2,0.115632816408
 'George Town',fr,Cayman Islands,#2EF4A0,#2EF4A0,2,0.115582634712
 'Îles Caïmans',fr,Cayman Islands,#2EF4A0,#2EF4A0,2,0.115582634712
-'Saint-Pierre-Port',fr,Guernsey,#3DDF90,#3DDF90,2,0.115330839517
 'Guernesey',fr,Guernsey,#3DDF90,#3DDF90,2,0.115330839517
+'Saint-Pierre-Port',fr,Guernsey,#3DDF90,#3DDF90,2,0.115330839517
 'Dominique',fr,Dominica,#7A1F97,#7A1F97,2,0.113961605585
 'Roseau',fr,Dominica,#7A1F97,#7A1F97,2,0.113961605585
 'Andorre-la-Vieille',fr,Andorra,#FA57A3,#FA57A3,2,0.112986001091
@@ -107,8 +107,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Curaçao',fr,Curacao,#AD7F88,#AD7F88,2,0.106255904009
 'Guam',fr,Guam,#E66EC8,#E66EC8,2,0.106032527388
 'Hagatna',fr,Guam,#E66EC8,#E66EC8,2,0.106032527388
-'Castries',fr,Saint Lucia,#B41354,#B41354,2,0.105497858584
 'Sainte-Lucie',fr,Saint Lucia,#B41354,#B41354,2,0.105497858584
+'Castries',fr,Saint Lucia,#B41354,#B41354,2,0.105497858584
 'Guyane française',fr,French Guiana,#142FE8,#142FE8,2,0.105114932534
 'Cayenne',fr,French Guiana,#142FE8,#142FE8,2,0.105114932534
 'Samoa',fr,Samoa,#F7B398,#F7B398,2,0.105098659053
