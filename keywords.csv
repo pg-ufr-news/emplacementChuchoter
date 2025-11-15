@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Antarctique',fr,Antarctica,#F24905,#F24905,2,1.000000000000
 'Adamstown',fr,Pitcairn,#9B50CD,#9B50CD,2,1.000000000000
 'Ouest-de-l'Île',fr,Cocos Islands,#32ED20,#32ED20,3,0.979755971250
 'Vatican',fr,Vatican,#747237,#747237,3,0.946586833871
+'Antarctique',fr,Antarctica,#F24905,#F24905,3,0.936768751818
 'Port-aux-Français',fr,French Southern Territories,#D05BAA,#D05BAA,3,0.932070899839
 'Cité du Vatican',fr,Vatican,#747237,#747237,2,0.925300030000
 'Terres australes françaises',fr,French Southern Territories,#D05BAA,#D05BAA,1,0.850255055500
@@ -14,11 +14,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Géorgie du Sud et îles Sandwich du Sud',fr,South Georgia and the South Sandwich Islands,#0CC97F,#0CC97F,1,0.850000000000
 'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#5F1EDA,#5F1EDA,1,0.850000000000
 'Tokélaou',fr,Tokelau,#05147B,#05147B,2,0.782128240109
-'Crique du poisson volant',fr,Christmas Island,#0C2D52,#0C2D52,2,0.766666666667
 'Île Christmas',fr,Christmas Island,#0C2D52,#0C2D52,2,0.766666666667
+'Crique du poisson volant',fr,Christmas Island,#0C2D52,#0C2D52,2,0.766666666667
 'Île Norfolk',fr,Norfolk Island,#D20DEF,#D20DEF,2,0.647045951860
-'Alofi',fr,Niue,#C2AF9B,#C2AF9B,2,0.561680517082
 'Nioué',fr,Niue,#C2AF9B,#C2AF9B,2,0.561680517082
+'Alofi',fr,Niue,#C2AF9B,#C2AF9B,2,0.561680517082
 'Longyearbyen',fr,Svalbard and Jan Mayen,#A4B0D3,#A4B0D3,2,0.492156862745
 'Svalbard et Jan Mayen',fr,Svalbard and Jan Mayen,#A4B0D3,#A4B0D3,2,0.492156862745
 'Stanley',fr,Falkland Islands,#997E6E,#997E6E,2,0.479075056861
@@ -29,10 +29,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saint Pierre',fr,Saint Pierre and Miquelon,#FC2079,#FC2079,2,0.242612664005
 'Sainte-Hélène',fr,Saint Helena,#A593E2,#A593E2,2,0.234048257373
 'Jamestown',fr,Saint Helena,#A593E2,#A593E2,2,0.234048257373
-'Gustavia',fr,Saint Barthelemy,#85D6CD,#85D6CD,2,0.218343195266
 'Saint Barthélemy',fr,Saint Barthelemy,#85D6CD,#85D6CD,2,0.218343195266
-'Montserrat',fr,Montserrat,#58CB7E,#58CB7E,2,0.207054919174
+'Gustavia',fr,Saint Barthelemy,#85D6CD,#85D6CD,2,0.218343195266
 'Plymouth',fr,Montserrat,#58CB7E,#58CB7E,2,0.207054919174
+'Montserrat',fr,Montserrat,#58CB7E,#58CB7E,2,0.207054919174
 'Funafuti',fr,Tuvalu,#306D78,#306D78,2,0.186896072298
 'Tuvalu',fr,Tuvalu,#306D78,#306D78,2,0.186896072298
 'Nauru',fr,Nauru,#78D18A,#78D18A,2,0.178715365239
@@ -43,10 +43,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wallis et Futuna',fr,Wallis and Futuna,#4D4616,#4D4616,2,0.162402496100
 'Mélékeok',fr,Palau,#FEF090,#FEF090,2,0.155844083319
 'Palaos',fr,Palau,#FEF090,#FEF090,2,0.155844083319
-'Bonaire ; Saint Eustache et Saba',fr,Bonaire; Saint Eustatius and Saba ,#05E5B4,#05E5B4,2,0.155518543193
 'grand-mère',fr,Bonaire; Saint Eustatius and Saba ,#05E5B4,#05E5B4,2,0.155518543193
-'Avarua',fr,Cook Islands,#127F1F,#127F1F,2,0.146755189826
+'Bonaire ; Saint Eustache et Saba',fr,Bonaire; Saint Eustatius and Saba ,#05E5B4,#05E5B4,2,0.155518543193
 'Îles Cook',fr,Cook Islands,#127F1F,#127F1F,2,0.146755189826
+'Avarua',fr,Cook Islands,#127F1F,#127F1F,2,0.146755189826
 'Mariehamn',fr,Aland Islands,#439818,#439818,2,0.137437759724
 'Îles Aland',fr,Aland Islands,#439818,#439818,2,0.137437759724
 'Route Ville',fr,British Virgin Islands,#BD0C43,#BD0C43,2,0.133554794980
@@ -61,8 +61,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Monaco',fr,Monaco,#2B7056,#2B7056,2,0.125851817383
 'Saint-Martin',fr,Sint Maarten,#A0A87E,#A0A87E,2,0.124597825552
 'Philipsbourg',fr,Sint Maarten,#A0A87E,#A0A87E,2,0.124597825552
-'Îles Féroé',fr,Faroe Islands,#B3F796,#B3F796,2,0.120619832155
 'Tórshavn',fr,Faroe Islands,#B3F796,#B3F796,2,0.120619832155
+'Îles Féroé',fr,Faroe Islands,#B3F796,#B3F796,2,0.120619832155
 'Basseterre',fr,Saint Kitts and Nevis,#5049A0,#5049A0,2,0.119069049027
 'Saint-Kitts-et-Nevis',fr,Saint Kitts and Nevis,#5049A0,#5049A0,2,0.119069049027
 'Pago Pago',fr,American Samoa,#0C906D,#0C906D,2,0.118029387902
