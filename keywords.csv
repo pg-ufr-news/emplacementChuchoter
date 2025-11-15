@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ouest-de-l'Île',fr,Cocos Islands,#32ED20,#32ED20,2,1.000000000000
-'Pitcairn',fr,Pitcairn,#9B50CD,#9B50CD,2,1.000000000000
-'Port-aux-Français',fr,French Southern Territories,#D05BAA,#D05BAA,2,1.000000000000
+'Ouest-de-l'Île',fr,Cocos Islands,#32ED20,#32ED20,3,1.000300525000
+'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#5F1EDA,#5F1EDA,2,1.000000000000
 'Adamstown',fr,Pitcairn,#9B50CD,#9B50CD,2,1.000000000000
 'Îles Cocos',fr,Cocos Islands,#32ED20,#32ED20,2,1.000000000000
-'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#5F1EDA,#5F1EDA,2,1.000000000000
+'Port-aux-Français',fr,French Southern Territories,#D05BAA,#D05BAA,2,1.000000000000
 'Île Bouvet',fr,Bouvet Island,#FD3E7A,#FD3E7A,2,1.000000000000
+'Pitcairn',fr,Pitcairn,#9B50CD,#9B50CD,2,1.000000000000
+'Cité du Vatican',fr,Vatican,#747237,#747237,2,1.000000000000
 'Île Heard et îles McDonald',fr,Heard Island and McDonald Islands,#CC0D08,#CC0D08,2,1.000000000000
 'Antarctique',fr,Antarctica,#F24905,#F24905,2,1.000000000000
-'Cité du Vatican',fr,Vatican,#747237,#747237,2,1.000000000000
 'Vatican',fr,Vatican,#747237,#747237,3,0.946586833871
 'Terres australes françaises',fr,French Southern Territories,#D05BAA,#D05BAA,1,0.850255055500
 'Géorgie du Sud et îles Sandwich du Sud',fr,South Georgia and the South Sandwich Islands,#0CC97F,#0CC97F,1,0.850000000000
