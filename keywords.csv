@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Cité du Vatican',fr,Vatican,#747237,#747237,2,0.861805055500
 'Vatican',fr,Vatican,#747237,#747237,3,0.850350173790
 'Terres australes françaises',fr,French Southern Territories,#D05BAA,#D05BAA,1,0.850255055500
 'Pitcairn',fr,Pitcairn,#9B50CD,#9B50CD,2,0.850150015000
@@ -14,8 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Port-aux-Français',fr,French Southern Territories,#D05BAA,#D05BAA,3,0.824484552136
 'Antarctique',fr,Antarctica,#F24905,#F24905,3,0.797004009045
 'Tokélaou',fr,Tokelau,#05147B,#05147B,2,0.782128240109
-'Crique du poisson volant',fr,Christmas Island,#0C2D52,#0C2D52,2,0.766666666667
 'Île Christmas',fr,Christmas Island,#0C2D52,#0C2D52,2,0.766666666667
+'Crique du poisson volant',fr,Christmas Island,#0C2D52,#0C2D52,2,0.766666666667
+'Cité du Vatican',fr,Vatican,#747237,#747237,2,0.732834327175
 'Île Norfolk',fr,Norfolk Island,#D20DEF,#D20DEF,2,0.647045951860
 'Nioué',fr,Niue,#C2AF9B,#C2AF9B,2,0.561680517082
 'Alofi',fr,Niue,#C2AF9B,#C2AF9B,2,0.561680517082
