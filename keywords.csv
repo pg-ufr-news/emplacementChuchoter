@@ -1,17 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geonames,latitude,longitude,geotype,country,ipcc
-'Ville de Cockburn',fr,Turks and Caicos Islands,#81434C,#81434C,2,0.900000000000,,-1,,,,,
+'Tokélaou',fr,Tokelau,#05147B,#05147B,2,0.900000000000,,-1,,,,,
 'Crique du poisson volant',fr,Christmas Island,#0C2D52,#0C2D52,2,0.900000000000,,-1,,,,,
 'Charlotte-Amélie',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.900000000000,,-1,,,,,
-'Tokélaou',fr,Tokelau,#05147B,#05147B,2,0.900000000000,,-1,,,,,
 'Jérusalem-Est',fr,Palestinian Territory,#5a96ec,#5a96ec,2,0.890037623727,EUROPE-AFRICA,7303419,31.783360000000,35.233880000000,P,Palestine,MED
-'Île Christmas',fr,Christmas Island,#a317d0,#a317d0,2,0.890000000000,INDIAN,2078138,-10.500000000000,105.666670000000,A,Île Christmas,SIO
-'grand-mère',fr,Bonaire; Saint Eustatius and Saba ,#a7ef6f,#a7ef6f,2,0.890000000000,NORTH-AMERICA,4994353,42.008250000000,-86.544360000000,H,États-Unis,ENA
-'Tokelau',fr,Tokelau,#05147B,#05147B,2,0.890000000000,,-1,,,,,
 'Guatemala',fr,Guatemala,#91e939,#91e939,2,0.890000000000,CENTRAL-AMERICA,3595528,15.500000000000,-90.250000000000,A,Guatemala,SCA
+'Virgin Islands',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.890000000000,,-1,,,,,
+'Koweit',fr,Kuwait,#5574ec,#5574ec,2,0.890000000000,ASIA,285570,29.500000000000,47.750000000000,A,Koweït,ARP
 'Îles Turques et Caïques',fr,Turks and Caicos Islands,#65ea45,#65ea45,2,0.890000000000,CENTRAL-AMERICA,3576916,21.733330000000,-71.583330000000,A,Îles Turques-et-Caïques,CAR
 'Kazakhstan',fr,Kazakhstan,#8b7bf0,#8b7bf0,2,0.890000000000,ASIA,1522867,48.000000000000,68.000000000000,A,Kazakhstan,WSB
-'Koweit',fr,Kuwait,#5574ec,#5574ec,2,0.890000000000,ASIA,285570,29.500000000000,47.750000000000,A,Koweït,ARP
-'Virgin Islands',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.890000000000,,-1,,,,,
+'Tokelau',fr,Tokelau,#05147B,#05147B,2,0.890000000000,,-1,,,,,
+'grand-mère',fr,Bonaire; Saint Eustatius and Saba ,#a7ef6f,#a7ef6f,2,0.890000000000,NORTH-AMERICA,4994353,42.008250000000,-86.544360000000,H,États-Unis,ENA
+'Île Christmas',fr,Christmas Island,#a317d0,#a317d0,2,0.890000000000,INDIAN,2078138,-10.500000000000,105.666670000000,A,Île Christmas,SIO
 'Koweït ville',fr,Kuwait,#9EAEB4,#9EAEB4,2,0.865450045000,,-1,,,,,
 'Territoire palestinien',fr,Palestinian Territory,#879448,#879448,3,0.833590368636,,-1,,,,,
 'Port-aux-Français',fr,French Southern Territories,#210e80,#210e80,3,0.824484552136,SOUTHERN,1546102,-49.349160000000,70.219370000000,P,Terres australes françaises,SOO
@@ -20,21 +19,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Vatican',fr,Vatican,#6ed4ee,#6ed4ee,3,0.782294422267,EUROPE-AFRICA,3164670,41.902250000000,12.453300000000,A,Vatican,MED
 'Guatemala-ville',fr,Guatemala,#74C8D9,#74C8D9,1,0.777877527750,,-1,,,,,
 'Îles Vierges américaines',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.765900090000,,-1,,,,,
-'Bonaire ; Saint Eustache et Saba',fr,Bonaire; Saint Eustatius and Saba ,#05E5B4,#05E5B4,1,0.765000000000,,-1,,,,,
 'Noursoultan',fr,Kazakhstan,#BBD1D4,#BBD1D4,1,0.765000000000,,-1,,,,,
+'Ville de Cockburn',fr,Turks and Caicos Islands,#81434C,#81434C,1,0.765000000000,,-1,,,,,
+'Bonaire ; Saint Eustache et Saba',fr,Bonaire; Saint Eustatius and Saba ,#05E5B4,#05E5B4,1,0.765000000000,,-1,,,,,
 'Îles Cocos',fr,Cocos Islands,#8616cc,#8616cc,1,0.741752538588,INDIAN,1547376,-12.164200000000,96.873320000000,A,Îles Cocos,SIO
 'Cité du Vatican',fr,Vatican,#6ed4ee,#6ed4ee,2,0.732834327175,EUROPE-AFRICA,6691831,41.902680000000,12.454140000000,P,Vatican,MED
 'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,1,0.723016827175,SOUTHERN,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Pitcairn',fr,Pitcairn,#b29713,#b29713,2,0.722777527750,PACIFIC,4030699,-25.066670000000,-130.100000000000,A,Pitcairn,SPO
 'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.722726809418,PACIFIC,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
-'Géorgie du Sud et îles Sandwich du Sud',fr,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.722500000000,SOUTHERN,3474415,-56.000000000000,-33.000000000000,A,Géorgie du Sud-et-les îles Sandwich du Sud,SOO
-'Île Bouvet',fr,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Île Bouvet,SOO
 'Grytviken',fr,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.722500000000,SOUTHERN,3426466,-54.281110000000,-36.509200000000,P,Géorgie du Sud-et-les îles Sandwich du Sud,SOO
-'Adamstown',fr,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,4030723,-25.065970000000,-130.101470000000,P,Pitcairn,SPO
 'Île Heard et îles McDonald',fr,Heard Island and McDonald Islands,#250d79,#250d79,1,0.722500000000,SOUTHERN,1547314,-53.117110000000,73.509520000000,A,Île Heard et îles McDonald,SOO
+'Adamstown',fr,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,4030723,-25.065970000000,-130.101470000000,P,Pitcairn,SPO
+'Île Bouvet',fr,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Île Bouvet,SOO
+'Géorgie du Sud et îles Sandwich du Sud',fr,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.722500000000,SOUTHERN,3474415,-56.000000000000,-33.000000000000,A,Géorgie du Sud-et-les îles Sandwich du Sud,SOO
 'Île Norfolk',fr,Norfolk Island,#aa1231,#aa1231,2,0.647045951860,PACIFIC,2155115,-29.033330000000,167.950000000000,A,Île Norfolk,SPO
-'Alofi',fr,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Nioué',fr,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
+'Alofi',fr,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Svalbard et Jan Mayen',fr,Svalbard and Jan Mayen,#b8e2f7,#b8e2f7,2,0.492156862745,ARCTIC,607072,78.000000000000,20.000000000000,A,Svalbard et Jan Mayen,ARO
 'Longyearbyen',fr,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.492156862745,ARCTIC,2729907,78.223340000000,15.646890000000,P,Svalbard et Jan Mayen,ARO
 'Stanley',fr,Falkland Islands,#0d7c11,#0d7c11,2,0.479075056861,SOUTH-AMERICA,3426691,-51.693820000000,-57.857010000000,P,Îles Malouines,SSA
@@ -43,10 +43,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Diego García',fr,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.350000000000,INDIAN,1282575,-7.312640000000,72.451610000000,T,Territoire britannique de l'océan Indien,EIO
 'Saint Pierre',fr,Saint Pierre and Miquelon,#93c2f3,#93c2f3,2,0.242612664005,EUROPE,498817,59.938630000000,30.314130000000,P,Russie,NEU
 'Saint-Pierre-et-Miquelon',fr,Saint Pierre and Miquelon,#79f080,#79f080,2,0.242612664005,NORTH-AMERICA,3424932,46.833330000000,-56.333330000000,A,Saint-Pierre et Miquelon,ENA
-'Sainte-Hélène',fr,Saint Helena,#15c4b4,#15c4b4,2,0.234048257373,ATLANTIC,3370751,-15.950000000000,-5.700000000000,A,Sainte-Hélène,SAO
 'Jamestown',fr,Saint Helena,#15c5b4,#15c5b4,2,0.234048257373,ATLANTIC,3370903,-15.924880000000,-5.718160000000,P,Sainte-Hélène,SAO
-'Gustavia',fr,Saint Barthelemy,#46e93e,#46e93e,2,0.218343195266,CENTRAL-AMERICA,3579132,17.896180000000,-62.849780000000,P,Saint-Barthélemy,CAR
+'Sainte-Hélène',fr,Saint Helena,#15c4b4,#15c4b4,2,0.234048257373,ATLANTIC,3370751,-15.950000000000,-5.700000000000,A,Sainte-Hélène,SAO
 'Saint Barthélemy',fr,Saint Barthelemy,#46e93e,#46e93e,2,0.218343195266,CENTRAL-AMERICA,3578476,17.900000000000,-62.825700000000,A,Saint-Barthélemy,CAR
+'Gustavia',fr,Saint Barthelemy,#46e93e,#46e93e,2,0.218343195266,CENTRAL-AMERICA,3579132,17.896180000000,-62.849780000000,P,Saint-Barthélemy,CAR
 'Plymouth',fr,Montserrat,#95101d,#95101d,2,0.207054919174,OCEANIA,2186239,-39.066670000000,174.083330000000,P,Nouvelle-Zélande,NZ
 'Montserrat',fr,Montserrat,#42e93b,#42e93b,2,0.207054919174,CENTRAL-AMERICA,3578097,16.750000000000,-62.200000000000,A,Montserrat,CAR
 'Tuvalu',fr,Tuvalu,#d4171a,#d4171a,2,0.186896072298,PACIFIC,2110297,-8.517190000000,179.144780000000,A,Tuvalu,EPO
@@ -57,12 +57,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'La Vallée',fr,Anguilla,#29e7d7,#29e7d7,2,0.175448921080,AFRICA,2290956,7.693850000000,-5.030310000000,P,Côte d'Ivoire,WAF
 'Mata Utu',fr,Wallis and Futuna,#ca2116,#ca2116,2,0.162402496100,PACIFIC,4034821,-13.281630000000,-176.174530000000,P,Wallis-et-Futuna,SPO
 'Wallis et Futuna',fr,Wallis and Futuna,#ca2116,#ca2116,2,0.162402496100,PACIFIC,4034749,-13.300000000000,-176.200000000000,A,Wallis-et-Futuna,SPO
-'Mélékeok',fr,Palau,#e728b8,#e728b8,2,0.155844083319,PACIFIC,4037930,7.494000000000,134.634500000000,A,Palaos,EPO
 'Palaos',fr,Palau,#e728b8,#e728b8,2,0.155844083319,PACIFIC,1559582,7.503000000000,134.621000000000,A,Palaos,EPO
-'Îles Cook',fr,Cook Islands,#ba4c14,#ba4c14,2,0.146755189826,PACIFIC,1899402,-21.248420000000,-159.785160000000,A,Îles Cook,SPO
+'Mélékeok',fr,Palau,#e728b8,#e728b8,2,0.155844083319,PACIFIC,4037930,7.494000000000,134.634500000000,A,Palaos,EPO
 'Avarua',fr,Cook Islands,#ba4c14,#ba4c14,2,0.146755189826,PACIFIC,4035715,-21.207500000000,-159.775460000000,P,Îles Cook,SPO
-'Mariehamn',fr,Aland Islands,#94d3f3,#94d3f3,2,0.137437759724,EUROPE,3041732,60.097260000000,19.934810000000,P,Îles Åland,NEU
+'Îles Cook',fr,Cook Islands,#ba4c14,#ba4c14,2,0.146755189826,PACIFIC,1899402,-21.248420000000,-159.785160000000,A,Îles Cook,SPO
 'Îles Aland',fr,Aland Islands,#d417ca,#d417ca,2,0.137437759724,ASIA,8425350,-8.481200000000,122.947900000000,T,Indonésie,SEA
+'Mariehamn',fr,Aland Islands,#94d3f3,#94d3f3,2,0.137437759724,EUROPE,3041732,60.097260000000,19.934810000000,P,Îles Åland,NEU
 'Route Ville',fr,British Virgin Islands,#78e8f0,#78e8f0,2,0.133554794980,EUROPE,12319052,46.766990000000,3.796230000000,P,France,WCE
 'Îles Vierges britanniques',fr,British Virgin Islands,#4ce93f,#4ce93f,2,0.133554794980,CENTRAL-AMERICA,3577718,18.500000000000,-64.500000000000,A,Îles Vierges,CAR
 'Gibraltar',fr,Gibraltar,#63ede1,#63ede1,2,0.129657749570,EUROPE-AFRICA,2411585,36.144740000000,-5.352570000000,P,Gibraltar,MED
@@ -75,22 +75,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Saint-Martin',fr,Sint Maarten,#47e93e,#47e93e,2,0.124597825552,CENTRAL-AMERICA,7609695,18.041670000000,-63.066670000000,A,Saint-Martin,CAR
 'Tórshavn',fr,Faroe Islands,#97f3e9,#97f3e9,2,0.120619832155,EUROPE,2611396,62.009730000000,-6.771640000000,P,Îles Féroé,NEU
 'Îles Féroé',fr,Faroe Islands,#97f3e8,#97f3e8,2,0.120619832155,EUROPE,2622320,62.000000000000,-7.000000000000,A,Îles Féroé,NEU
-'Basseterre',fr,Saint Kitts and Nevis,#44e93c,#44e93c,2,0.119069049027,CENTRAL-AMERICA,3575551,17.295500000000,-62.724990000000,P,Saint-Christophe-et-Niévès,CAR
 'Saint-Kitts-et-Nevis',fr,Saint Kitts and Nevis,#44e93c,#44e93c,2,0.119069049027,CENTRAL-AMERICA,3575174,17.333330000000,-62.750000000000,A,Saint-Christophe-et-Niévès,CAR
+'Basseterre',fr,Saint Kitts and Nevis,#44e93c,#44e93c,2,0.119069049027,CENTRAL-AMERICA,3575551,17.295500000000,-62.724990000000,P,Saint-Christophe-et-Niévès,CAR
 'Samoa américaines',fr,American Samoa,#c83516,#c83516,2,0.118029387902,PACIFIC,5880801,-14.233770000000,-169.477670000000,A,Samoa américaines,SPO
 'Pago Pago',fr,American Samoa,#c83116,#c83116,2,0.118029387902,PACIFIC,5881576,-14.278060000000,-170.702500000000,P,Samoa américaines,SPO
 'Groenland',fr,Greenland,#acf5c4,#acf5c4,2,0.117849174476,POLAR,3425505,72.000000000000,-40.000000000000,A,Groenland,GIC
 'Nuuk',fr,Greenland,#9cf4a8,#9cf4a8,2,0.117849174476,POLAR,3421319,64.183470000000,-51.721570000000,P,Groenland,GIC
 'Saipan',fr,Northern Mariana Islands,#e8389d,#e8389d,2,0.117580253859,PACIFIC,7828758,15.212330000000,145.754500000000,P,Îles Mariannes du Nord,NPO
 'Îles Mariannes du Nord',fr,Northern Mariana Islands,#e8389d,#e8389d,2,0.117580253859,PACIFIC,4041468,15.214000000000,145.756000000000,A,Îles Mariannes du Nord,NPO
-'Îles Marshall',fr,Marshall Islands,#e72843,#e72843,2,0.117119476829,PACIFIC,2080185,7.113000000000,171.236000000000,A,Îles Marshall,EPO
 'Majuro',fr,Marshall Islands,#e72743,#e72743,2,0.117119476829,PACIFIC,2113779,7.089710000000,171.380270000000,P,Îles Marshall,EPO
+'Îles Marshall',fr,Marshall Islands,#e72843,#e72843,2,0.117119476829,PACIFIC,2080185,7.113000000000,171.236000000000,A,Îles Marshall,EPO
 'Bermudes',fr,Bermuda,#66ec5b,#66ec5b,2,0.115632816408,ATLANTIC,3573345,32.330220000000,-64.740030000000,A,Bermudes,NAO
 'Hamilton',fr,Bermuda,#66ec5b,#66ec5b,2,0.115632816408,ATLANTIC,3573197,32.294900000000,-64.783030000000,P,Bermudes,NAO
 'Îles Caïmans',fr,Cayman Islands,#7be941,#7be941,2,0.115582634712,CENTRAL-AMERICA,3580718,19.500000000000,-80.666670000000,A,Îles Caïmans,CAR
 'George Town',fr,Cayman Islands,#7de940,#7de940,2,0.115582634712,CENTRAL-AMERICA,3580661,19.286600000000,-81.374360000000,P,Îles Caïmans,CAR
-'Saint-Pierre-Port',fr,Guernsey,#7ef0eb,#7ef0eb,2,0.115330839517,EUROPE,3042287,49.459810000000,-2.535270000000,P,Guernesey,WCE
 'Guernesey',fr,Guernsey,#7ef0eb,#7ef0eb,2,0.115330839517,EUROPE,3042362,49.454740000000,-2.576290000000,A,Guernesey,WCE
+'Saint-Pierre-Port',fr,Guernsey,#7ef0eb,#7ef0eb,2,0.115330839517,EUROPE,3042287,49.459810000000,-2.535270000000,P,Guernesey,WCE
 'Roseau',fr,Dominica,#3ce838,#3ce838,2,0.113961605585,CENTRAL-AMERICA,3575635,15.301740000000,-61.388080000000,P,Dominique,CAR
 'Dominique',fr,Dominica,#3de939,#3de939,2,0.113961605585,CENTRAL-AMERICA,3575830,15.500000000000,-61.333330000000,A,Dominique,CAR
 'Andorre-la-Vieille',fr,Andorra,#70ebef,#70ebef,2,0.112986001091,EUROPE-AFRICA,3041563,42.507790000000,1.521090000000,P,Andorre,MED
@@ -105,10 +105,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Victoria',fr,Seychelles,#1827dc,#1827dc,2,0.110334635497,INDIAN,241131,-4.620010000000,55.455010000000,P,Seychelles,EIO
 'Nuku'alofa',fr,Tonga,#ba2114,#ba2114,2,0.109690204173,PACIFIC,4032402,-21.136830000000,-175.201140000000,P,Tonga,SPO
 'Tonga',fr,Tonga,#bc2214,#bc2214,2,0.109690204173,PACIFIC,4032283,-20.000000000000,-175.000000000000,A,Tonga,SPO
-'Aruba',fr,Aruba,#51e832,#51e832,2,0.109447777410,CENTRAL-AMERICA,3577279,12.500000000000,-69.966670000000,A,Aruba,CAR
 'Oranjestad',fr,Aruba,#51e833,#51e833,2,0.109447777410,CENTRAL-AMERICA,3577154,12.523980000000,-70.027030000000,P,Aruba,CAR
-'Saint-Vincent-et-les Grenadines',fr,Saint Vincent and the Grenadines,#37e834,#37e834,2,0.109073504460,CENTRAL-AMERICA,3577815,13.083330000000,-61.200000000000,A,Saint-Vincent-et-les-Grenadines,CAR
+'Aruba',fr,Aruba,#51e832,#51e832,2,0.109447777410,CENTRAL-AMERICA,3577279,12.500000000000,-69.966670000000,A,Aruba,CAR
 'Kingstown',fr,Saint Vincent and the Grenadines,#38e834,#38e834,2,0.109073504460,CENTRAL-AMERICA,3577887,13.155270000000,-61.227420000000,P,Saint-Vincent-et-les-Grenadines,CAR
+'Saint-Vincent-et-les Grenadines',fr,Saint Vincent and the Grenadines,#37e834,#37e834,2,0.109073504460,CENTRAL-AMERICA,3577815,13.083330000000,-61.200000000000,A,Saint-Vincent-et-les-Grenadines,CAR
 'Saint-Georges',fr,Grenada,#37e832,#37e832,2,0.108972311447,CENTRAL-AMERICA,3579925,12.052880000000,-61.752260000000,P,Grenade,CAR
 'Grenade',fr,Grenada,#37e832,#37e832,2,0.108972311447,CENTRAL-AMERICA,3580239,12.116670000000,-61.666670000000,A,Grenade,CAR
 'Micronésie',fr,Micronesia,#e6265a,#e6265a,2,0.108877840909,PACIFIC,7729900,6.533650000000,163.740230000000,L,,EPO
