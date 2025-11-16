@@ -82,4 +82,4 @@ for index, column in keywordsDF.iterrows():
         print("daily geonames limit has been reached, please re-run later.")
 
 print(keywordsDF)
-keywordsDF.to_csv(DATA_PATH / 'csv'/ 'keywords.csv', index_label='index')
+keywordsDF.to_csv(DATA_PATH / 'csv'/ 'keywords.csv',index=False)
