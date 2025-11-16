@@ -1,20 +1,19 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geonames,latitude,longitude,geotype,country,ipcc
-'Noursoultan',fr,Kazakhstan,#BBD1D4,#BBD1D4,2,0.900000000000,,-1,,,,,
-'Ville de Cockburn',fr,Turks and Caicos Islands,#81434C,#81434C,2,0.900000000000,,-1,,,,,
-'Charlotte-Amélie',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.900000000000,,-1,,,,,
-'Territoire palestinien',fr,Palestinian Territory,#879448,#879448,2,0.900000000000,,-1,,,,,
 'Îles Vierges américaines',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.900000000000,,-1,,,,,
-'Crique du poisson volant',fr,Christmas Island,#0C2D52,#0C2D52,2,0.900000000000,,-1,,,,,
 'Tokélaou',fr,Tokelau,#05147B,#05147B,2,0.900000000000,,-1,,,,,
-'Guatemala',fr,Guatemala,#91e939,#91e939,2,0.890000000000,CENTRAL-AMERICA,3595528,15.500000000000,-90.250000000000,A,Guatemala,SCA
-'Tokelau',fr,Tokelau,#05147B,#05147B,2,0.890000000000,,-1,,,,,
-'Îles Turques et Caïques',fr,Turks and Caicos Islands,#65ea45,#65ea45,2,0.890000000000,CENTRAL-AMERICA,3576916,21.733330000000,-71.583330000000,A,Îles Turques-et-Caïques,CAR
-'Jérusalem-Est',fr,Palestinian Territory,#5a96ec,#5a96ec,2,0.890000000000,EUROPE-AFRICA,7303419,31.783360000000,35.233880000000,P,Palestine,MED
-'Virgin Islands',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.890000000000,,-1,,,,,
-'Kazakhstan',fr,Kazakhstan,#8b7bf0,#8b7bf0,2,0.890000000000,ASIA,1522867,48.000000000000,68.000000000000,A,Kazakhstan,WSB
-'Île Christmas',fr,Christmas Island,#a317d0,#a317d0,2,0.890000000000,INDIAN,2078138,-10.500000000000,105.666670000000,A,Île Christmas,SIO
-'Koweit',fr,Kuwait,#5574ec,#5574ec,2,0.890000000000,ASIA,285570,29.500000000000,47.750000000000,A,Koweït,ARP
+'Crique du poisson volant',fr,Christmas Island,#0C2D52,#0C2D52,2,0.900000000000,,-1,,,,,
+'Ville de Cockburn',fr,Turks and Caicos Islands,#81434C,#81434C,2,0.900000000000,,-1,,,,,
+'Territoire palestinien',fr,Palestinian Territory,#879448,#879448,2,0.900000000000,,-1,,,,,
+'Charlotte-Amélie',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.900000000000,,-1,,,,,
 'grand-mère',fr,Bonaire; Saint Eustatius and Saba ,#a7ef6f,#a7ef6f,2,0.890000000000,NORTH-AMERICA,4994353,42.008250000000,-86.544360000000,H,États-Unis,ENA
+'Tokelau',fr,Tokelau,#05147B,#05147B,2,0.890000000000,,-1,,,,,
+'Guatemala',fr,Guatemala,#91e939,#91e939,2,0.890000000000,CENTRAL-AMERICA,3595528,15.500000000000,-90.250000000000,A,Guatemala,SCA
+'Jérusalem-Est',fr,Palestinian Territory,#5a96ec,#5a96ec,2,0.890000000000,EUROPE-AFRICA,7303419,31.783360000000,35.233880000000,P,Palestine,MED
+'Îles Turques et Caïques',fr,Turks and Caicos Islands,#65ea45,#65ea45,2,0.890000000000,CENTRAL-AMERICA,3576916,21.733330000000,-71.583330000000,A,Îles Turques-et-Caïques,CAR
+'Kazakhstan',fr,Kazakhstan,#8b7bf0,#8b7bf0,2,0.890000000000,ASIA,1522867,48.000000000000,68.000000000000,A,Kazakhstan,WSB
+'Koweit',fr,Kuwait,#5574ec,#5574ec,2,0.890000000000,ASIA,285570,29.500000000000,47.750000000000,A,Koweït,ARP
+'Virgin Islands',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.890000000000,,-1,,,,,
+'Île Christmas',fr,Christmas Island,#a317d0,#a317d0,2,0.890000000000,INDIAN,2078138,-10.500000000000,105.666670000000,A,Île Christmas,SIO
 'Koweït ville',fr,Kuwait,#9EAEB4,#9EAEB4,2,0.865450045000,,-1,,,,,
 'Port-aux-Français',fr,French Southern Territories,#210e80,#210e80,3,0.824484552136,SOUTHERN,1546102,-49.349160000000,70.219370000000,P,Terres australes françaises,SOO
 'Antarctique',fr,Antarctica,#073546,#073546,3,0.797004009045,POLAR,6255152,-78.158560000000,16.406260000000,L,,EAN
@@ -22,16 +21,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,geo
 'Vatican',fr,Vatican,#6ed4ee,#6ed4ee,3,0.782294422267,EUROPE-AFRICA,3164670,41.902250000000,12.453300000000,A,Vatican,MED
 'Guatemala-ville',fr,Guatemala,#74C8D9,#74C8D9,1,0.777877527750,,-1,,,,,
 'Bonaire ; Saint Eustache et Saba',fr,Bonaire; Saint Eustatius and Saba ,#05E5B4,#05E5B4,1,0.765000000000,,-1,,,,,
+'Noursoultan',fr,Kazakhstan,#BBD1D4,#BBD1D4,1,0.765000000000,,-1,,,,,
 'Îles Cocos',fr,Cocos Islands,#8616cc,#8616cc,1,0.741752538588,INDIAN,1547376,-12.164200000000,96.873320000000,A,Îles Cocos,SIO
 'Cité du Vatican',fr,Vatican,#6ed4ee,#6ed4ee,2,0.732834327175,EUROPE-AFRICA,6691831,41.902680000000,12.454140000000,P,Vatican,MED
 'Terres australes françaises',fr,French Southern Territories,#1e0f8d,#1e0f8d,1,0.723016827175,SOUTHERN,1546748,-43.000000000000,67.000000000000,A,Terres australes françaises,SOO
 'Pitcairn',fr,Pitcairn,#b29713,#b29713,2,0.722777527750,PACIFIC,4030699,-25.066670000000,-130.100000000000,A,Pitcairn,SPO
+'Île Bouvet',fr,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Île Bouvet,SOO
 'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.722500000000,PACIFIC,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
 'Géorgie du Sud et îles Sandwich du Sud',fr,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.722500000000,SOUTHERN,3474415,-56.000000000000,-33.000000000000,A,Géorgie du Sud-et-les îles Sandwich du Sud,SOO
-'Île Bouvet',fr,Bouvet Island,#0d7076,#0d7076,1,0.722500000000,SOUTHERN,3371123,-54.433330000000,3.400000000000,A,Île Bouvet,SOO
-'Grytviken',fr,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.722500000000,SOUTHERN,3426466,-54.281110000000,-36.509200000000,P,Géorgie du Sud-et-les îles Sandwich du Sud,SOO
 'Île Heard et îles McDonald',fr,Heard Island and McDonald Islands,#250d79,#250d79,1,0.722500000000,SOUTHERN,1547314,-53.117110000000,73.509520000000,A,Île Heard et îles McDonald,SOO
 'Adamstown',fr,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,4030723,-25.065970000000,-130.101470000000,P,Pitcairn,SPO
+'Grytviken',fr,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.722500000000,SOUTHERN,3426466,-54.281110000000,-36.509200000000,P,Géorgie du Sud-et-les îles Sandwich du Sud,SOO
 'Île Norfolk',fr,Norfolk Island,#aa1231,#aa1231,2,0.647045951860,PACIFIC,2155115,-29.033330000000,167.950000000000,A,Île Norfolk,SPO
 'Alofi',fr,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Nioué',fr,Niue,#be3115,#be3115,2,0.561680517082,PACIFIC,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
