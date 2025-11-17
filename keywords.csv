@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
 'Tokelau',fr,Tokelau,#05147B,#05147B,1,0.890000000000,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
-'grand-mère',fr,Bonaire; Saint Eustatius and Saba ,#a7ef6f,#a7ef6f,1,0.890000000000,NORTH-AMERICA,1249101638,4994353,42.008250000000,-86.544360000000,H,United States,ENA
+'Bonaire',fr,Bonaire; Saint Eustatius and Saba ,#a7ef6f,#a7ef6f,1,0.990000000000,,,-1,42.008250000000,-86.544360000000,,,
+'Saint Eustatius',fr,Bonaire; Saint Eustatius and Saba ,#a7ef6f,#a7ef6f,1,0.990000000000,,,-1,42.008250000000,-86.544360000000,,,
 'Îles Turques et Caïques',fr,Turks and Caicos Islands,#65ea45,#65ea45,1,0.890000000000,CENTRAL-AMERICA,4285170-1,3576916,21.733330000000,-71.583330000000,A,Turks and Caicos Islands,CAR
 'Guatemala',fr,Guatemala,#91e939,#91e939,1,0.890000000000,CENTRAL-AMERICA,4022428-4,3595528,15.500000000000,-90.250000000000,A,Guatemala,SCA
 'Kazakhstan',fr,Kazakhstan,#8b7bf0,#8b7bf0,1,0.890000000000,ASIA,1009150-6,1522867,48.000000000000,68.000000000000,A,Kazakhstan,WSB
@@ -20,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Ville de Cockburn',fr,Turks and Caicos Islands,#81434C,#81434C,1,0.765000000000,CENTRAL-AMERICA,4285170-1,3576916,21.733330000000,-71.583330000000,A,Turks and Caicos Islands,CAR
 'Crique du poisson volant',fr,Christmas Island,#0C2D52,#0C2D52,1,0.765000000000,INDIAN,,2078127,-10.421720000000,105.679120000000,P,Christmas Island,SIO
 'Noursoultan',fr,Kazakhstan,#BBD1D4,#BBD1D4,1,0.765000000000,ASIA,1009150-6,1522867,48.000000000000,68.000000000000,A,Kazakhstan,WSB
-'Bonaire ; Saint Eustache et Saba',fr,Bonaire; Saint Eustatius and Saba ,#05E5B4,#05E5B4,1,0.765000000000,CENTRAL-AMERICA,,7626844,12.212860000000,-68.294450000000,A,"Bonaire, Sint Eustatius, and Saba",CAR
 'Tokélaou',fr,Tokelau,#05147B,#05147B,1,0.765000000000,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
 'Îles Cocos',fr,Cocos Islands,#8616cc,#8616cc,1,0.741752538588,INDIAN,4298716-7,1547376,-12.164200000000,96.873320000000,A,Îles Cocos,SIO
 'Cité du Vatican',fr,Vatican,#6ed4ee,#6ed4ee,2,0.732834327175,EUROPE-AFRICA,4062404-3,6691831,41.902680000000,12.454140000000,P,Vatican,MED
