@@ -55,7 +55,7 @@ for index, column in keywordsDF.iterrows():
             keywordsDF.loc[index,'latitude'] = float(gn.lat)
             keywordsDF.loc[index,'longitude'] = float(gn.lng)
             keywordsDF.loc[index,'geotype'] = gn.feature_class
-            keywordsDF.loc[index,'country'] = gn.country
+            keywordsDF.loc[index,'country'] = gn.country               #localized!!
 
             print(['geo',gn.lat,gn.lng, gn])
             (r, g, b) = colorsys.hls_to_rgb((float(gn.lng)+180)/360, (0.8*float(gn.lat)+90)/180, 0.8)
