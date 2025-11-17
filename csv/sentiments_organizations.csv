@@ -1,39 +1,78 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Hamas,Hamas,ORG,-0.00924019607843138,0.20821078431372553,fr,17
+Parlement israélien,Parlement israélien,ORG,0.11822052154195009,0.11649659863945579,fr,7
+ONU,ONU,ORG,0.1901531746031746,0.10540476190476192,fr,5
+ministère de la Santé,ministère de la Santé,ORG,0.05,0.14166666666666666,fr,4
+AFP,AFP,ORG,0.042374999999999996,0.055,fr,4
+Knesset,Knesset,ORG,0.07192162698412698,0.09904761904761905,fr,4
 Apple,Apple,ORG,0.18499999999999997,0.21666666666666667,fr,3
+Milipol,Milipol,ORG,0.146,0.06666666666666667,fr,3
+Union européenne,Union européenne,ORG,0.11923076923076924,0.15128205128205127,fr,3
+Autorité palestinienne,Autorité palestinienne,ORG,0.0675,0.11875000000000001,fr,3
 NHC,NHC,ORG,0.022000000000000002,0.04000000000000001,fr,3
-AFP,AFP,ORG,0.016499999999999997,0.023333333333333334,fr,3
-ASSE,ASSE,ORG,0.4,0.4,fr,2
-Eglise pour pédocriminalité,Eglise pour pédocriminalité,ORG,-0.015,-0.0175,fr,2
-Autorité palestinienne,Autorité palestinienne,ORG,0.051250000000000004,0.053125,fr,2
-Greenpeace,Greenpeace,ORG,0.2275,0.04375,fr,2
-Forces,Forces,ORG,0.025333333333333326,0.10333333333333333,fr,2
-Amazon Italie,Amazon Italie,ORG,0.185,0.1625,fr,2
+Naval Group,Naval Group,ORG,0.061111111111111116,0.08888888888888889,fr,3
+UE,UE,ORG,0.11923076923076924,0.11346153846153845,fr,2
+Libération,Libération,ORG,0.08416666666666667,0.04375,fr,2
 Sagrada Familia,Sagrada Familia,ORG,0.17733333333333332,0.11750000000000001,fr,2
 Information Dana Morris Dixon,Information Dana Morris Dixon,ORG,0.21749999999999997,0.14,fr,2
+Forces,Forces,ORG,0.025333333333333326,0.10333333333333333,fr,2
+Assemblée,Assemblée,ORG,0.07166666666666667,0.08333333333333333,fr,2
+Greenpeace,Greenpeace,ORG,0.2275,0.04375,fr,2
+Eglise pour pédocriminalité,Eglise pour pédocriminalité,ORG,-0.015,-0.0175,fr,2
+ASSE,ASSE,ORG,0.4,0.4,fr,2
 Etat du Para,Etat du Para,ORG,0.14666666666666667,0.03333333333333333,fr,2
-Centre national américain des ouragans,Centre national américain des ouragans,ORG,0.24,0.0,fr,1
-STRINGER,STRINGER,ORG,-0.025000000000000005,0.0,fr,1
+Amazon Italie,Amazon Italie,ORG,0.185,0.1625,fr,2
+CIJ,CIJ,ORG,0.20725396825396825,0.08666666666666668,fr,2
+The post,The post,ORG,0.24124999999999996,0.2375,fr,2
+LAURENCE,LAURENCE,ORG,-0.039642857142857146,0.093,fr,2
+CIA,CIA,ORG,0.0075,0.05,fr,2
+Etat mercredi,Etat mercredi,ORG,0.21250000000000002,0.10625000000000001,fr,2
+Cour internationale de justice,Cour internationale de justice,ORG,0.2562857142857143,0.03642857142857143,fr,2
+Nations unies,Nations unies,ORG,0.11757142857142858,0.08,fr,2
+Financial Times,Financial Times,ORG,0.17714285714285713,0.10357142857142858,fr,2
+Il Post,Il Post,ORG,0.03846153846153846,0.0,fr,1
+Institut israélien de médecine légale,Institut israélien de médecine légale,ORG,0.19999999999999998,0.0,fr,1
+FSR,FSR,ORG,-0.15,0.0,fr,1
+Etat unitaire,Etat unitaire,ORG,-0.15,0.0,fr,1
+université Erasmus,université Erasmus,ORG,0.31000000000000005,0.0,fr,1
+Université hébraïque de Jérusalem,Université hébraïque de Jérusalem,ORG,0.31000000000000005,0.0,fr,1
+Erasmus University Rotterdam,Erasmus University Rotterdam,ORG,0.31000000000000005,0.0,fr,1
+compréhe,compréhe,ORG,0.32083333333333336,0.0,fr,1
 V & A,V & A,ORG,9.25185853854297e-18,0.0,fr,1
+lInternational Crisis Group,lInternational Crisis Group,ORG,0.10833333333333332,0.0,fr,1
+Etat,Etat,ORG,0.08714285714285715,0.0,fr,1
+Tenerife,Tenerife,ORG,-0.03454545454545455,0.0,fr,1
 El,El,ORG,-0.015,0.0,fr,1
 Store français,Store français,ORG,0.185,0.0,fr,1
-Hamas,Hamas,ORG,0.051250000000000004,0.0,fr,1
-The post,The post,ORG,0.13499999999999998,0.0,fr,1
-Tenerife,Tenerife,ORG,-0.03454545454545455,0.0,fr,1
-Il Post,Il Post,ORG,0.03846153846153846,0.0,fr,1
-Moyen Âge,Moyen Âge,ORG,0.13499999999999998,0.0,fr,1
-Etat mercredi,Etat mercredi,ORG,0.195,0.0,fr,1
-compréhe,compréhe,ORG,0.32083333333333336,0.0,fr,1
-Etat unitaire,Etat unitaire,ORG,-0.15,0.0,fr,1
-FSR,FSR,ORG,-0.15,0.0,fr,1
+Tsedek,Tsedek,ORG,0.26666666666666666,0.0,fr,1
 Forces de soutien rapide,Forces de soutien rapide,ORG,-0.15,0.0,fr,1
-Nations unies,Nations unies,ORG,0.148,0.0,fr,1
-MONTEFORTE,MONTEFORTE,ORG,0.012499999999999997,0.0,fr,1
+OEA,OEA,ORG,0.0075,0.0,fr,1
+Conseil de sécurité de lONU destin,Conseil de sécurité de lONU destin,ORG,0.05625,0.0,fr,1
+Gardiens de la Révolution,Gardiens de la Révolution,ORG,-0.1,0.0,fr,1
+Wildlife Photographer of the Year,Wildlife Photographer of the Year,ORG,0.2625,0.0,fr,1
+Etat américain,Etat américain,ORG,0.06428571428571428,0.0,fr,1
 FILIPPO,FILIPPO,ORG,0.012499999999999997,0.0,fr,1
-Saint,Saint,ORG,0.012499999999999997,0.0,fr,1
+Comité international de la Cro,Comité international de la Cro,ORG,0.13499999999999998,0.0,fr,1
+MONTEFORTE,MONTEFORTE,ORG,0.012499999999999997,0.0,fr,1
+Cour internationale de justice,Cour internationale de justice,ORG,0.12175,0.0,fr,1
+NBA vs FBI ,NBA vs FBI ,ORG,0.16399999999999998,0.0,fr,1
+The Times,The Times,ORG,0.12666666666666668,0.0,fr,1
+UNRWA,UNRWA,ORG,0.08875,0.0,fr,1
+Agence des Nations unies,Agence des Nations unies,ORG,0.08875,0.0,fr,1
+dun Etat palestinien,dun Etat palestinien,ORG,0.08875,0.0,fr,1
 Centre national des ouragans,Centre national des ouragans,ORG,0.09,0.0,fr,1
-l'ONU,l'ONU,ORG,-0.14,0.0,fr,1
 The post L’,The post L’,ORG,0.03625,0.0,fr,1
-SEMANSKY,SEMANSKY,ORG,0.043750000000000004,0.0,fr,1
 Unesco,Unesco,ORG,-0.15000000000000002,0.0,fr,1
 ministre de l',ministre de l',ORG,0.08142857142857143,0.0,fr,1
+Centre national américain des ouragans,Centre national américain des ouragans,ORG,0.24,0.0,fr,1
+LDH,LDH,ORG,0.19333333333333333,0.0,fr,1
+STRINGER,STRINGER,ORG,-0.025000000000000005,0.0,fr,1
+Moyen Âge,Moyen Âge,ORG,0.13499999999999998,0.0,fr,1
+SEMANSKY,SEMANSKY,ORG,0.043750000000000004,0.0,fr,1
+MOS,MOS,ORG,-0.05657142857142857,0.0,fr,1
+Assemblée nationale,Assemblée nationale,ORG,0.24000000000000005,0.0,fr,1
+l'ONU,l'ONU,ORG,-0.14,0.0,fr,1
 France 3 Normandie,France 3 Normandie,ORG,0.28875,0.0,fr,1
+Saint,Saint,ORG,0.012499999999999997,0.0,fr,1
+Libé,Libé,ORG,0.13333333333333333,0.0,fr,1
+Ligue des droits de lHomme,Ligue des droits de lHomme,ORG,0.19333333333333333,0.0,fr,1

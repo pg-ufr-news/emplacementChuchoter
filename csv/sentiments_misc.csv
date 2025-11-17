@@ -1,63 +1,132 @@
 ,phrase,label,sentiment,subjectivity,language,count
 ouragan Melissa,ouragan Melissa,MISC,,,fr,35
+Palestiniens,Palestiniens,MISC,,,fr,9
 Melissa,Melissa,MISC,,,fr,7
+Église,Église,MISC,,,fr,5
 Ouragan Melissa,Ouragan Melissa,MISC,,,fr,5
-Français,Français,MISC,-0.06488636363636364,0.16022727272727272,fr,3
-Ouragan Melissa ,Ouragan Melissa ,MISC,,,fr,3
+Donald Trump,Donald Trump,MISC,,,fr,5
+Pierre,Pierre,MISC,,,fr,3
+Class40,Class40,MISC,,,fr,3
+Religion,Religion,MISC,,,fr,3
 tempête Melissa,tempête Melissa,MISC,,,fr,3
-"Cortège, tapis rouge","Cortège, tapis rouge",MISC,,,fr,2
-Église,Église,MISC,,,fr,2
-Big One»,Big One»,MISC,,,fr,2
-CadoMaestro,CadoMaestro,MISC,,,fr,2
-XVIe siècle,XVIe siècle,MISC,,,fr,2
-Saint-Siège,Saint-Siège,MISC,,,fr,2
-Pierre,Pierre,MISC,,,fr,2
-Vatican ,Vatican ,MISC,,,fr,1
-Antoinette,Antoinette,MISC,,,fr,1
-Nature Geoscience,Nature Geoscience,MISC,,,fr,1
-Center for Oldest Ice Exploration,Center for Oldest Ice Exploration,MISC,,,fr,1
-Dolus,Dolus,MISC,,,fr,1
-Honda Civic,Honda Civic,MISC,,,fr,1
-JEAN,JEAN,MISC,,,fr,1
-CATHOLIQUE,CATHOLIQUE,MISC,,,fr,1
-"Drame, comedie musicale","Drame, comedie musicale",MISC,,,fr,1
-GREGORIO BORGIA,GREGORIO BORGIA,MISC,,,fr,1
-IA,IA,MISC,,,fr,1
-Donald Trump,Donald Trump,MISC,,,fr,1
-Massacres de civils,Massacres de civils,MISC,,,fr,1
-Garde suisse pontificale,Garde suisse pontificale,MISC,,,fr,1
-Emirats arabes unis,Emirats arabes unis,MISC,,,fr,1
-lAntarctique,lAntarctique,MISC,,,fr,1
-lItalie,lItalie,MISC,,,fr,1
-Garde suisse,Garde suisse,MISC,,,fr,1
-États-Unis,États-Unis,MISC,,,fr,1
-PAULO SANTOS,PAULO SANTOS,MISC,,,fr,1
-Eglise principale d’Ulm,Eglise principale d’Ulm,MISC,,,fr,1
-Made In France,Made In France,MISC,,,fr,1
-Problème:,Problème:,MISC,,,fr,1
-XIIᵉ,XIIᵉ,MISC,,,fr,1
-XIIe,XIIe,MISC,,,fr,1
-guerre d’Espagne ,guerre d’Espagne ,MISC,,,fr,1
-François !,François !,MISC,,,fr,1
-tempête Benjamin,tempête Benjamin,MISC,,,fr,1
-Église dAngleterre,Église dAngleterre,MISC,,,fr,1
-Église d',Église d',MISC,,,fr,1
-Seconde Guerre mondiale,Seconde Guerre mondiale,MISC,,,fr,1
-Under An,Under An,MISC,,,fr,1
-lEmmanuel,lEmmanuel,MISC,,,fr,1
-lIslande,lIslande,MISC,,,fr,1
-ouragan Gordon,ouragan Gordon,MISC,,,fr,1
-Le Premier ministre,Le Premier ministre,MISC,,,fr,1
-Étienne,Étienne,MISC,,,fr,1
-Sa,Sa,MISC,,,fr,1
-Halloween,Halloween,MISC,,,fr,1
-Titanic Experience,Titanic Experience,MISC,,,fr,1
-Titanic,Titanic,MISC,,,fr,1
+Ouragan Melissa ,Ouragan Melissa ,MISC,,,fr,3
+Français,Français,MISC,-0.06488636363636364,0.16022727272727272,fr,3
+Trump,Trump,MISC,,,fr,3
 "Google Actualités
 Partager
  Sabonner","Google Actualités
 Partager
- Sabonner",MISC,,,fr,1
-lApple Watch SE 3,lApple Watch SE 3,MISC,,,fr,1
-tour de Jésus,tour de Jésus,MISC,,,fr,1
+ Sabonner",MISC,,,fr,2
+Gaza ,Gaza ,MISC,-3.96508223080413e-18,0.08095238095238096,fr,2
+CadoMaestro,CadoMaestro,MISC,,,fr,2
+Guerre à Gaza,Guerre à Gaza,MISC,,,fr,2
+Big One»,Big One»,MISC,,,fr,2
+États-Unis,États-Unis,MISC,,,fr,2
+Musk,Musk,MISC,,,fr,2
+Église d',Église d',MISC,,,fr,2
+Saint-Siège,Saint-Siège,MISC,,,fr,2
+Rares,Rares,MISC,,,fr,2
+XVIe siècle,XVIe siècle,MISC,,,fr,2
+"Cortège, tapis rouge","Cortège, tapis rouge",MISC,,,fr,2
+Saint-Père au Vatican,Saint-Père au Vatican,MISC,,,fr,2
+H2 Green Steel,H2 Green Steel,MISC,,,fr,2
+Airbnb,Airbnb,MISC,,,fr,2
+MYOP,MYOP,MISC,,,fr,2
+"REUTERS
+","REUTERS
+",MISC,,,fr,2
+lAntarctique,lAntarctique,MISC,,,fr,1
+Dolus,Dolus,MISC,,,fr,1
+»,»,MISC,,,fr,1
+GREGORIO BORGIA,GREGORIO BORGIA,MISC,,,fr,1
+IA,IA,MISC,,,fr,1
+Orient,Orient,MISC,,,fr,1
+Booking.com,Booking.com,MISC,,,fr,1
+CATHOLIQUE,CATHOLIQUE,MISC,,,fr,1
+JEAN,JEAN,MISC,,,fr,1
+Honda Civic,Honda Civic,MISC,,,fr,1
+Nathan,Nathan,MISC,,,fr,1
+Nature Geoscience,Nature Geoscience,MISC,,,fr,1
+"LEGENDRE
+","LEGENDRE
+",MISC,,,fr,1
+Premier,Premier,MISC,,,fr,1
+plan Trump,plan Trump,MISC,,,fr,1
+Prix Pulitzer 2024,Prix Pulitzer 2024,MISC,,,fr,1
+Center for Oldest Ice Exploration,Center for Oldest Ice Exploration,MISC,,,fr,1
+Dan,Dan,MISC,,,fr,1
+dEva Illouz,dEva Illouz,MISC,,,fr,1
+Amour romantique,Amour romantique,MISC,,,fr,1
+Quest,Quest,MISC,,,fr,1
+Booking,Booking,MISC,,,fr,1
+Premier m,Premier m,MISC,,,fr,1
+Made In France,Made In France,MISC,,,fr,1
 Semaines sociales de France,Semaines sociales de France,MISC,,,fr,1
+"Drame, comedie musicale","Drame, comedie musicale",MISC,,,fr,1
+Transition de genre,Transition de genre,MISC,,,fr,1
+lAccord,lAccord,MISC,,,fr,1
+Accord de Paris,Accord de Paris,MISC,,,fr,1
+Antoinette,Antoinette,MISC,,,fr,1
+Constitution,Constitution,MISC,,,fr,1
+Garde suisse pontificale,Garde suisse pontificale,MISC,,,fr,1
+Garde suisse,Garde suisse,MISC,,,fr,1
+Vatican ,Vatican ,MISC,,,fr,1
+lItalie,lItalie,MISC,,,fr,1
+PAULO SANTOS,PAULO SANTOS,MISC,,,fr,1
+Etats-Unis,Etats-Unis,MISC,,,fr,1
+lEtat,lEtat,MISC,,,fr,1
+"Musk
+","Musk
+",MISC,,,fr,1
+Feu vert des actionnaires de,Feu vert des actionnaires de,MISC,,,fr,1
+Ça,Ça,MISC,,,fr,1
+Emirats arabes unis,Emirats arabes unis,MISC,0.025333333333333326,0.20666666666666667,fr,1
+Massacres de civils,Massacres de civils,MISC,,,fr,1
+Wildlife Photographer of the Year,Wildlife Photographer of the Year,MISC,,,fr,1
+François !,François !,MISC,,,fr,1
+Dossier :,Dossier :,MISC,,,fr,1
+Kalandia,Kalandia,MISC,-0.03428571428571429,0.04142857142857143,fr,1
+Transat,Transat,MISC,,,fr,1
+Vendée Globe,Vendée Globe,MISC,,,fr,1
+Pierre au Vatican,Pierre au Vatican,MISC,,,fr,1
+concile Vatican II,concile Vatican II,MISC,,,fr,1
+Seconde Guerre mondiale,Seconde Guerre mondiale,MISC,,,fr,1
+Derrière la lumière,Derrière la lumière,MISC,,,fr,1
+deuxième Intifada,deuxième Intifada,MISC,,,fr,1
+lUkraine,lUkraine,MISC,,,fr,1
+NBA ,NBA ,MISC,,,fr,1
+dHaïti,dHaïti,MISC,,,fr,1
+Northvolt,Northvolt,MISC,,,fr,1
+guerre d’Espagne ,guerre d’Espagne ,MISC,,,fr,1
+SNLE 3G,SNLE 3G,MISC,,,fr,1
+Église dAngleterre,Église dAngleterre,MISC,,,fr,1
+Fr,Fr,MISC,,,fr,1
+tempête Benjamin,tempête Benjamin,MISC,,,fr,1
+Madina,Madina,MISC,,,fr,1
+XXe siècle,XXe siècle,MISC,,,fr,1
+Chaque matin,Chaque matin,MISC,,,fr,1
+lEtat hébreu,lEtat hébreu,MISC,,,fr,1
+FRED TANNEAU,FRED TANNEAU,MISC,,,fr,1
+XIIe,XIIe,MISC,,,fr,1
+Under An,Under An,MISC,,,fr,1
+XIIᵉ,XIIᵉ,MISC,,,fr,1
+Problème:,Problème:,MISC,,,fr,1
+LOEB,LOEB,MISC,,,fr,1
+tour de Jésus,tour de Jésus,MISC,,,fr,1
+Eglise principale d’Ulm,Eglise principale d’Ulm,MISC,,,fr,1
+NOAM,NOAM,MISC,,,fr,1
+ladministration Trump,ladministration Trump,MISC,,,fr,1
+Titanic,Titanic,MISC,,,fr,1
+Titanic Experience,Titanic Experience,MISC,,,fr,1
+Halloween,Halloween,MISC,,,fr,1
+Sa,Sa,MISC,,,fr,1
+lApple Watch SE 3,lApple Watch SE 3,MISC,,,fr,1
+Étienne,Étienne,MISC,,,fr,1
+Le Premier ministre,Le Premier ministre,MISC,,,fr,1
+lAssemblée,lAssemblée,MISC,,,fr,1
+ouragan Gordon,ouragan Gordon,MISC,,,fr,1
+Toussaint”,Toussaint”,MISC,,,fr,1
+lIslande,lIslande,MISC,,,fr,1
+lEmmanuel,lEmmanuel,MISC,,,fr,1
+Zucman ,Zucman ,MISC,,,fr,1
+Champion suédois de l’acier vert,Champion suédois de l’acier vert,MISC,,,fr,1

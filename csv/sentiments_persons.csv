@@ -1,34 +1,72 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Léon XIV,Léon XIV,PER,0.2268162277537278,0.3053070135882636,fr,24
+Léon XIV,Léon XIV,PER,0.20154757158046638,0.2565070820991873,fr,38
+Charles III,Charles III,PER,0.211474358974359,0.18217948717948718,fr,13
 Paul Gusching,Paul Gusching,PER,-0.089,0.2335714285714286,fr,7
-Charles III,Charles III,PER,0.23312500000000003,0.150625,fr,6
 Heïdi Sevestre,Heïdi Sevestre,PER,-0.01010416666666667,0.18041666666666667,fr,6
+reine Mathilde,reine Mathilde,PER,0.17375,0.19375000000000003,fr,4
 Matthieu Tordeur,Matthieu Tordeur,PER,-0.0684375,0.17000000000000004,fr,4
+Recep Tayyip Erdogan,Recep Tayyip Erdogan,PER,-0.14714285714285713,0.2714285714285714,fr,4
 Haropa Port,Haropa Port,PER,0.17499999999999996,0.08749999999999998,fr,3
 Luc Terlinden,Luc Terlinden,PER,0.09000000000000001,0.20714285714285716,fr,3
-Viktor Orban,Viktor Orban,PER,0.27,0.16,fr,2
-Mahmoud Abbas,Mahmoud Abbas,PER,0.051250000000000004,0.10625,fr,2
-Michel Nicolier,Michel Nicolier,PER,-0.1125,0.225,fr,2
+Mahmoud Abbas,Mahmoud Abbas,PER,0.0675,0.15416666666666667,fr,3
+Salah Hamouri,Salah Hamouri,PER,0.15,0.2875,fr,3
+Pierre de Rome,Pierre de Rome,PER,0.146,0.08,fr,3
 Éric Falt,Éric Falt,PER,-0.15000000000000002,0.325,fr,2
-reine Mathilde,reine Mathilde,PER,0.17375,0.19375000000000003,fr,2
-Dame de Verdun,Dame de Verdun,PER,0.062,0.02,fr,1
-Rafael Zornoza,Rafael Zornoza,PER,-0.015,-0.035,fr,1
-Lena Situations,Lena Situations,PER,-0.056666666666666664,0.31666666666666665,fr,1
+Spike Lee,Spike Lee,PER,0.01,0.0,fr,2
+Michel Nicolier,Michel Nicolier,PER,-0.1125,0.225,fr,2
+Yifat Tomer,Yifat Tomer,PER,-0.05657142857142857,0.09428571428571428,fr,2
+Monica Bellucci,Monica Bellucci,PER,0.01,0.0,fr,2
+Viktor Orban,Viktor Orban,PER,0.27,0.16,fr,2
+Yitzhak Rabin,Yitzhak Rabin,PER,0.11166666666666668,0.15,fr,2
+Michel Desjoyeaux,Michel Desjoyeaux,PER,0.12,0.27499999999999997,fr,2
+Cate Blanchett,Cate Blanchett,PER,0.01,0.0,fr,2
+Louise Callaghan,Louise Callaghan,PER,0.12666666666666668,0.13333333333333333,fr,2
+recadre la Knesset,recadre la Knesset,PER,0.16399999999999998,0.12,fr,2
+Benyamin Nétanyahou,Benyamin Nétanyahou,PER,0.09940476190476191,0.1464285714285714,fr,2
+JD Vance,JD Vance,PER,0.09100000000000001,0.145,fr,2
+Tibo InShape,Tibo InShape,PER,0.15399999999999997,0.21200000000000002,fr,1
+Léon XIV ,Léon XIV ,PER,0.10555555555555557,0.2277777777777778,fr,1
+Elie Duprey,Elie Duprey,PER,0.26666666666666666,0.16666666666666666,fr,1
 Mgr Gusching,Mgr Gusching,PER,0.06000000000000001,0.21000000000000002,fr,1
-Jen ai gros,Jen ai gros,PER,-0.2416666666666667,0.34166666666666673,fr,1
-Péter Magyar,Péter Magyar,PER,0.27,0.16,fr,1
-CHRISTOPHE VERHAEGEN,CHRISTOPHE VERHAEGEN,PER,0.062,0.02,fr,1
+Sébastien Lecornu,Sébastien Lecornu,PER,0.146,0.1,fr,1
+Elon Musk,Elon Musk,PER,0.09999999999999999,0.14500000000000002,fr,1
+leffigie de Marwan Barghouti,leffigie de Marwan Barghouti,PER,-0.03428571428571429,0.04142857142857143,fr,1
+GEOFFROY VAN DER,GEOFFROY VAN DER,PER,0.15,0.2875,fr,1
+Marwan Barghouti,Marwan Barghouti,PER,-0.03428571428571429,0.04142857142857143,fr,1
+Daniel Shimon Peretz,Daniel Shimon Peretz,PER,-0.045,0.186,fr,1
+Lena Situations,Lena Situations,PER,-0.056666666666666664,0.31666666666666665,fr,1
+Rafael Zornoza,Rafael Zornoza,PER,-0.015,-0.035,fr,1
 El Pais,El Pais,PER,-0.015,-0.035,fr,1
-lEspace Champerret,lEspace Champerret,PER,0.148,0.16,fr,1
-Allah akbar »,Allah akbar »,PER,-0.18000000000000002,-0.20000000000000004,fr,1
-Alkheir Ismaïl,Alkheir Ismaïl,PER,-0.15,0.29000000000000004,fr,1
+Péter Magyar,Péter Magyar,PER,0.27,0.16,fr,1
+BREFEmmanuel Macron,BREFEmmanuel Macron,PER,0.1,0.25,fr,1
 Knut Eriksson,Knut Eriksson,PER,0.13499999999999998,0.21687500000000004,fr,1
-Emile Victor,Emile Victor,PER,0.148,0.16,fr,1
-Victor Hugo,Victor Hugo,PER,0.148,0.16,fr,1
-Leonid Rogozov,Leonid Rogozov,PER,-0.021428571428571436,0.2285714285714286,fr,1
-Miguel Diaz,Miguel Diaz,PER,0.1,0.3,fr,1
-Andrew Holmes,Andrew Holmes,PER,0.08333333333333333,0.45,fr,1
-Desmond McKenzie,Desmond McKenzie,PER,0.08142857142857143,5.228571428571429,fr,1
-Antoine Hérouard,Antoine Hérouard,PER,0.3466666666666667,0.4466666666666666,fr,1
-Olga Teresa Brocca Smith,Olga Teresa Brocca Smith,PER,0.04363636363636363,0.05,fr,1
+François Defour,François Defour,PER,0.09333333333333332,0.3,fr,1
 Haropa Port vie,Haropa Port vie,PER,0.175,0.0875,fr,1
+Monica Belluci,Monica Belluci,PER,0.01,0.0,fr,1
+Robert De Niro,Robert De Niro,PER,0.01,0.0,fr,1
+Marc Costermans,Marc Costermans,PER,0.2625,0.325,fr,1
+Jen ai gros,Jen ai gros,PER,-0.2416666666666667,0.34166666666666673,fr,1
+CHRISTOPHE VERHAEGEN,CHRISTOPHE VERHAEGEN,PER,0.062,0.02,fr,1
+Olga Teresa Brocca Smith,Olga Teresa Brocca Smith,PER,0.04363636363636363,0.05,fr,1
+larchevêque Thibault Verny,larchevêque Thibault Verny,PER,0.14999999999999997,0.22000000000000003,fr,1
+Bezalel Smotrich,Bezalel Smotrich,PER,0.08875,0.1875,fr,1
+Antoine Hérouard,Antoine Hérouard,PER,0.3466666666666667,0.4466666666666666,fr,1
+Desmond McKenzie,Desmond McKenzie,PER,0.08142857142857143,5.228571428571429,fr,1
+Andrew Holmes,Andrew Holmes,PER,0.08333333333333333,0.45,fr,1
+Sofiane Sehili,Sofiane Sehili,PER,0.13333333333333333,0.11666666666666665,fr,1
+Sahar Baruch,Sahar Baruch,PER,-0.05833333333333333,0.15,fr,1
+Amiram Kuper,Amiram Kuper,PER,-0.05833333333333333,0.15,fr,1
+Miguel Diaz,Miguel Diaz,PER,0.1,0.3,fr,1
+Tempête Benjamin,Tempête Benjamin,PER,0.13333333333333333,0.11666666666666665,fr,1
+Victor Hugo,Victor Hugo,PER,0.148,0.16,fr,1
+Tibo InShape ,Tibo InShape ,PER,0.15399999999999997,0.21200000000000002,fr,1
+Emile Victor,Emile Victor,PER,0.148,0.16,fr,1
+lEspace Champerret,lEspace Champerret,PER,0.148,0.16,fr,1
+Alkheir Ismaïl,Alkheir Ismaïl,PER,-0.15,0.29000000000000004,fr,1
+Eva Illouz,Eva Illouz,PER,0.31000000000000005,0.35,fr,1
+Erasme de Rotterdam,Erasme de Rotterdam,PER,0.31000000000000005,0.35,fr,1
+Nathan Thrall,Nathan Thrall,PER,0.10833333333333332,0.11666666666666668,fr,1
+Allah akbar »,Allah akbar »,PER,-0.18000000000000002,-0.20000000000000004,fr,1
+Marco Rubio,Marco Rubio,PER,0.06428571428571428,0.12857142857142856,fr,1
+Dame de Verdun,Dame de Verdun,PER,0.062,0.02,fr,1
+Leonid Rogozov,Leonid Rogozov,PER,-0.021428571428571436,0.2285714285714286,fr,1
