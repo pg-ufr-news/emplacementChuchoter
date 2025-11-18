@@ -184,7 +184,7 @@ def searchGndByNameAndGeo(locationName, latitude, longitude, maxDistance=10):
                      #print(member['preferredName']) 
                      result['preferredName'] = member['preferredName']
           #print(result)
-          if(distance2<maxDistance**2):
+          if(minDistance<maxDistance**2):
             return result
         return None                   
 
