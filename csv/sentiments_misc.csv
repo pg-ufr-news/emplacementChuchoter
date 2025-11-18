@@ -1,163 +1,174 @@
 ,phrase,label,sentiment,subjectivity,language,count
 ouragan Melissa,ouragan Melissa,MISC,,,fr,57
 Diables rouges,Diables rouges,MISC,,,fr,23
-Donald Trump,Donald Trump,MISC,,,fr,19
+Donald Trump,Donald Trump,MISC,,,fr,22
+États-Unis,États-Unis,MISC,,,fr,13
 Melissa,Melissa,MISC,,,fr,13
-États-Unis,États-Unis,MISC,,,fr,11
 Palestiniens,Palestiniens,MISC,,,fr,10
 Trump,Trump,MISC,,,fr,9
-Ouragan Melissa,Ouragan Melissa,MISC,,,fr,8
 Etats-Unis,Etats-Unis,MISC,0.9720952380952381,0.8757142857142857,fr,8
+Ouragan Melissa,Ouragan Melissa,MISC,,,fr,8
 Diables,Diables,MISC,,,fr,6
 Ouragan Melissa ,Ouragan Melissa ,MISC,,,fr,6
 Coupe du monde 2026,Coupe du monde 2026,MISC,,,fr,6
-Coupe du monde,Coupe du monde,MISC,,,fr,5
 Louragan Melissa,Louragan Melissa,MISC,,,fr,5
-Église,Église,MISC,,,fr,5
+Coupe du monde,Coupe du monde,MISC,,,fr,5
 Diables Rouges,Diables Rouges,MISC,,,fr,5
+Église,Église,MISC,,,fr,5
+Gaza ,Gaza ,MISC,,,fr,4
 Idem,Idem,MISC,,,fr,4
-Ça,Ça,MISC,,,fr,4
 Orient,Orient,MISC,,,fr,4
 Proche-Orient,Proche-Orient,MISC,,,fr,4
-Les Diables rouges,Les Diables rouges,MISC,,,fr,4
-Gaza ,Gaza ,MISC,-0.011904761904761908,0.05982142857142857,fr,4
-les Diables,les Diables,MISC,,,fr,4
+Ça,Ça,MISC,,,fr,4
+Standard,Standard,MISC,,,fr,4
 "REUTERS
 ","REUTERS
 ",MISC,,,fr,4
-Standard,Standard,MISC,,,fr,4
-Diablotins,Diablotins,MISC,,,fr,3
+Les Diables rouges,Les Diables rouges,MISC,,,fr,4
+les Diables,les Diables,MISC,,,fr,4
 tempête Melissa,tempête Melissa,MISC,,,fr,3
-Class40,Class40,MISC,,,fr,3
 INFOGRAPHIES,INFOGRAPHIES,MISC,,,fr,3
+Diablotins,Diablotins,MISC,,,fr,3
+Class40,Class40,MISC,,,fr,3
 Religion,Religion,MISC,,,fr,3
 Français,Français,MISC,-0.037077922077922085,0.09155844155844155,fr,3
 Pierre,Pierre,MISC,,,fr,3
 "DIRECT, guerre en Ukraine ","DIRECT, guerre en Ukraine ",MISC,,,fr,3
-Église d',Église d',MISC,,,fr,2
-lUkraine,lUkraine,MISC,,,fr,2
-Big One»,Big One»,MISC,,,fr,2
-Ligue des champions,Ligue des champions,MISC,,,fr,2
-Saint-Siège,Saint-Siège,MISC,,,fr,2
-Rares,Rares,MISC,,,fr,2
-"Cortège, tapis rouge","Cortège, tapis rouge",MISC,,,fr,2
-louragan Melissa,louragan Melissa,MISC,,,fr,2
 attentats de Paris,attentats de Paris,MISC,,,fr,2
+Église d',Église d',MISC,,,fr,2
+Ligue des champions,Ligue des champions,MISC,,,fr,2
+Rares,Rares,MISC,,,fr,2
+XVIe siècle,XVIe siècle,MISC,,,fr,2
+lUkraine,lUkraine,MISC,,,fr,2
+"Cortège, tapis rouge","Cortège, tapis rouge",MISC,,,fr,2
 OURAGAN,OURAGAN,MISC,,,fr,2
+Guerre,Guerre,MISC,,,fr,2
+Saint-Siège,Saint-Siège,MISC,,,fr,2
 Le Premier ministre israélien,Le Premier ministre israélien,MISC,,,fr,2
 Tel-Aviv,Tel-Aviv,MISC,,,fr,2
+Accords d’Abraham,Accords d’Abraham,MISC,,,fr,2
+Musk,Musk,MISC,,,fr,2
 "Google Actualités
 Partager
  Sabonner","Google Actualités
 Partager
  Sabonner",MISC,,,fr,2
-Accords d’Abraham,Accords d’Abraham,MISC,,,fr,2
 Mirjana,Mirjana,MISC,,,fr,2
 CadoMaestro,CadoMaestro,MISC,,,fr,2
-Musk,Musk,MISC,,,fr,2
 Guerre à Gaza,Guerre à Gaza,MISC,,,fr,2
-XVIe siècle,XVIe siècle,MISC,,,fr,2
 IA,IA,MISC,,,fr,2
+Big One»,Big One»,MISC,,,fr,2
+louragan Melissa,louragan Melissa,MISC,,,fr,2
+Zucman ,Zucman ,MISC,,,fr,2
 H2 Green Steel,H2 Green Steel,MISC,,,fr,2
-plan Trump,plan Trump,MISC,,,fr,2
-Bye bye,Bye bye,MISC,,,fr,2
 Saint-Père au Vatican,Saint-Père au Vatican,MISC,,,fr,2
-Manchester City,Manchester City,MISC,,,fr,2
-Coupe du monde de leur histoire,Coupe du monde de leur histoire,MISC,,,fr,2
-MYOP,MYOP,MISC,,,fr,2
 Guerre en Ukraine ,Guerre en Ukraine ,MISC,,,fr,2
 N.8,N.8,MISC,,,fr,2
-Airbnb,Airbnb,MISC,,,fr,2
 ATP 250,ATP 250,MISC,,,fr,2
+Coupe du monde de leur histoire,Coupe du monde de leur histoire,MISC,,,fr,2
+Airbnb,Airbnb,MISC,,,fr,2
+Manchester City,Manchester City,MISC,,,fr,2
+MYOP,MYOP,MISC,,,fr,2
 sommet de Charm El,sommet de Charm El,MISC,,,fr,2
-lEtat,lEtat,MISC,,,fr,1
-les Diables rougesSix,les Diables rougesSix,MISC,,,fr,1
-Rangers,Rangers,MISC,,,fr,1
-accords d’Abraham,accords d’Abraham,MISC,,,fr,1
-DAZN</li><li>18h00,DAZN</li><li>18h00,MISC,,,fr,1
-C,C,MISC,0.07,0.15000000000000002,fr,1
-dAbraham,dAbraham,MISC,,,fr,1
-DIVERTISSEMENT,DIVERTISSEMENT,MISC,,,fr,1
-Manchester City Manchester United,Manchester City Manchester United,MISC,,,fr,1
-Top départ !,Top départ !,MISC,,,fr,1
-PAULO SANTOS,PAULO SANTOS,MISC,,,fr,1
-lItalie,lItalie,MISC,,,fr,1
-FRANCE,FRANCE,MISC,,,fr,1
+plan Trump,plan Trump,MISC,,,fr,2
+Bye bye,Bye bye,MISC,,,fr,2
+lExtrême,lExtrême,MISC,,,fr,1
 Eliminato,Eliminato,MISC,,,fr,1
+Manchester City Manchester United,Manchester City Manchester United,MISC,,,fr,1
 "Musk
 ","Musk
 ",MISC,,,fr,1
-lExtrême,lExtrême,MISC,,,fr,1
-Vatican ,Vatican ,MISC,,,fr,1
+DAZN</li><li>18h00,DAZN</li><li>18h00,MISC,,,fr,1
+Semaines sociales de France,Semaines sociales de France,MISC,,,fr,1
+accords d’Abraham,accords d’Abraham,MISC,,,fr,1
+lEtat,lEtat,MISC,,,fr,1
+Feu vert des actionnaires de,Feu vert des actionnaires de,MISC,,,fr,1
+dun coup dÉtat,dun coup dÉtat,MISC,,,fr,1
+C,C,MISC,0.07,0.15000000000000002,fr,1
+Facebook,Facebook,MISC,,,fr,1
+dAbraham,dAbraham,MISC,,,fr,1
+Claire et Éric,Claire et Éric,MISC,,,fr,1
+La guerre,La guerre,MISC,,,fr,1
+Emirats arabes unis,Emirats arabes unis,MISC,0.025333333333333326,0.20666666666666667,fr,1
+les Diables rougesSix,les Diables rougesSix,MISC,,,fr,1
+»,»,MISC,,,fr,1
+Honda Civic,Honda Civic,MISC,,,fr,1
+JEAN,JEAN,MISC,,,fr,1
+CATHOLIQUE,CATHOLIQUE,MISC,,,fr,1
 GREGORIO BORGIA,GREGORIO BORGIA,MISC,,,fr,1
 más FPT Industrial,más FPT Industrial,MISC,,,fr,1
 Grupo Propeller,Grupo Propeller,MISC,,,fr,1
 Diplomatie,Diplomatie,MISC,,,fr,1
-»,»,MISC,,,fr,1
+Un Diable rouge,Un Diable rouge,MISC,,,fr,1
+Sels au micro de VTM,Sels au micro de VTM,MISC,,,fr,1
+Top départ !,Top départ !,MISC,,,fr,1
+Coupe du Monde,Coupe du Monde,MISC,,,fr,1
 Quest,Quest,MISC,,,fr,1
 STEVENS TOMAS,STEVENS TOMAS,MISC,,,fr,1
 Ma,Ma,MISC,,,fr,1
 Premier,Premier,MISC,,,fr,1
 Premier m,Premier m,MISC,,,fr,1
 Massacres de civils,Massacres de civils,MISC,,,fr,1
-Emirats arabes unis,Emirats arabes unis,MISC,0.025333333333333326,0.20666666666666667,fr,1
-Un Diable rouge,Un Diable rouge,MISC,,,fr,1
-Feu vert des actionnaires de,Feu vert des actionnaires de,MISC,,,fr,1
-Sels au micro de VTM,Sels au micro de VTM,MISC,,,fr,1
-Coupe du Monde,Coupe du Monde,MISC,,,fr,1
 Seys,Seys,MISC,,,fr,1
-Ici La Rochelle,Ici La Rochelle,MISC,,,fr,1
-dun coup dÉtat,dun coup dÉtat,MISC,,,fr,1
-La guerre,La guerre,MISC,,,fr,1
-"Drame, comedie musicale","Drame, comedie musicale",MISC,,,fr,1
-Coupe du monde ,Coupe du monde ,MISC,,,fr,1
+DIVERTISSEMENT,DIVERTISSEMENT,MISC,,,fr,1
+FRANCE,FRANCE,MISC,,,fr,1
+PAULO SANTOS,PAULO SANTOS,MISC,,,fr,1
+Attentats de 2015 ,Attentats de 2015 ,MISC,,,fr,1
+La jeune femme,La jeune femme,MISC,,,fr,1
+The Two Walls,The Two Walls,MISC,,,fr,1
+Antoinette,Antoinette,MISC,,,fr,1
+Carillon aux c,Carillon aux c,MISC,,,fr,1
+Blog,Blog,MISC,,,fr,1
+Gentils,Gentils,MISC,,,fr,1
+Accord de Paris,Accord de Paris,MISC,,,fr,1
+Apocalypse,Apocalypse,MISC,,,fr,1
+Rangers ,Rangers ,MISC,,,fr,1
+lItalie,lItalie,MISC,,,fr,1
+lAccord,lAccord,MISC,,,fr,1
+lArgentine,lArgentine,MISC,,,fr,1
 Transition de genre,Transition de genre,MISC,,,fr,1
 Mondial,Mondial,MISC,0.07714285714285715,0.09285714285714286,fr,1
 UEFA,UEFA,MISC,,,fr,1
+Rangers,Rangers,MISC,,,fr,1
 Coupe du monde 2026 de samedi,Coupe du monde 2026 de samedi,MISC,,,fr,1
+"Drame, comedie musicale","Drame, comedie musicale",MISC,,,fr,1
+Content d'être de retour,Content d'être de retour,MISC,,,fr,1
+Je suis confiant”,Je suis confiant”,MISC,,,fr,1
 lhi,lhi,MISC,,,fr,1
-Carillon aux c,Carillon aux c,MISC,,,fr,1
-Blog,Blog,MISC,,,fr,1
-Accord de Paris,Accord de Paris,MISC,,,fr,1
-Gentils,Gentils,MISC,,,fr,1
-Apocalypse,Apocalypse,MISC,,,fr,1
-Attentats de 2015 ,Attentats de 2015 ,MISC,,,fr,1
-Rangers ,Rangers ,MISC,,,fr,1
-lArgentine,lArgentine,MISC,,,fr,1
-Semaines sociales de France,Semaines sociales de France,MISC,,,fr,1
+Mon statut,Mon statut,MISC,,,fr,1
 dune,dune,MISC,,,fr,1
-Coupe du monde des Diables rouges,Coupe du monde des Diables rouges,MISC,,,fr,1
-Antoinette,Antoinette,MISC,,,fr,1
+Ici La Rochelle,Ici La Rochelle,MISC,,,fr,1
+Vendredi soir,Vendredi soir,MISC,,,fr,1
+Vatican ,Vatican ,MISC,,,fr,1
 Garde suisse,Garde suisse,MISC,,,fr,1
-Claire et Éric,Claire et Éric,MISC,,,fr,1
-Guerre,Guerre,MISC,,,fr,1
 Garde suisse pontificale,Garde suisse pontificale,MISC,,,fr,1
 VALAT,VALAT,MISC,,,fr,1
 Guerre en Ukraine,Guerre en Ukraine,MISC,,,fr,1
 États-Unis et la Chine,États-Unis et la Chine,MISC,,,fr,1
 TASS,TASS,MISC,,,fr,1
-Facebook,Facebook,MISC,,,fr,1
-Constitution,Constitution,MISC,,,fr,1
-Diable rougeLes,Diable rougeLes,MISC,,,fr,1
-Vendredi soir,Vendredi soir,MISC,,,fr,1
-Mon statut,Mon statut,MISC,,,fr,1
+Moyen,Moyen,MISC,,,fr,1
 Big Rom,Big Rom,MISC,,,fr,1
-Je suis confiant”,Je suis confiant”,MISC,,,fr,1
 KDB,KDB,MISC,,,fr,1
-Content d'être de retour,Content d'être de retour,MISC,,,fr,1
-La jeune femme,La jeune femme,MISC,,,fr,1
-lAccord,lAccord,MISC,,,fr,1
-Problème:,Problème:,MISC,,,fr,1
-CATHOLIQUE,CATHOLIQUE,MISC,,,fr,1
+Diable rougeLes,Diable rougeLes,MISC,,,fr,1
+Constitution,Constitution,MISC,,,fr,1
+Coupe du monde des Diables rouges,Coupe du monde des Diables rouges,MISC,,,fr,1
+Coupe du monde ,Coupe du monde ,MISC,,,fr,1
+Dolus,Dolus,MISC,,,fr,1
+X,X,MISC,0.11,0.45,fr,1
+Prix Leica,Prix Leica,MISC,,,fr,1
+XXe siècle,XXe siècle,MISC,,,fr,1
 GETTY,GETTY,MISC,,,fr,1
+dEtat,dEtat,MISC,,,fr,1
 guerre d’Espagne ,guerre d’Espagne ,MISC,,,fr,1
 Fr,Fr,MISC,,,fr,1
 Dossier :,Dossier :,MISC,,,fr,1
 François !,François !,MISC,,,fr,1
 lEtat hébreu,lEtat hébreu,MISC,,,fr,1
+administration Trump,administration Trump,MISC,,,fr,1
+LIrak,LIrak,MISC,,,fr,1
 Chaque matin,Chaque matin,MISC,,,fr,1
-XXe siècle,XXe siècle,MISC,,,fr,1
 Madina,Madina,MISC,,,fr,1
+Kalandia,Kalandia,MISC,-0.03428571428571429,0.04142857142857143,fr,1
 tempête Benjamin,tempête Benjamin,MISC,,,fr,1
 Église dAngleterre,Église dAngleterre,MISC,,,fr,1
 SNLE 3G,SNLE 3G,MISC,,,fr,1
@@ -166,15 +177,16 @@ dHaïti,dHaïti,MISC,,,fr,1
 NBA ,NBA ,MISC,,,fr,1
 Derrière la lumière,Derrière la lumière,MISC,,,fr,1
 Seconde Guerre mondiale,Seconde Guerre mondiale,MISC,,,fr,1
-Libération »,Libération »,MISC,,,fr,1
-87e prix Albert Londres,87e prix Albert Londres,MISC,,,fr,1
-concile Vatican II,concile Vatican II,MISC,,,fr,1
-Vendée Globe,Vendée Globe,MISC,,,fr,1
-Transat,Transat,MISC,,,fr,1
-dEtat,dEtat,MISC,,,fr,1
+LAssempblée,LAssempblée,MISC,,,fr,1
+"SIPA
+Commenter
+ ","SIPA
+Commenter
+ ",MISC,,,fr,1
 THE WASHINGTON POST,THE WASHINGTON POST,MISC,,,fr,1
-JEAN,JEAN,MISC,,,fr,1
-Kalandia,Kalandia,MISC,-0.03428571428571429,0.04142857142857143,fr,1
+deuxième Intifada,deuxième Intifada,MISC,,,fr,1
+LAssemblée,LAssemblée,MISC,,,fr,1
+Eco |,Eco |,MISC,,,fr,1
 Booking,Booking,MISC,,,fr,1
 Booking.com,Booking.com,MISC,,,fr,1
 Wildlife Photographer of the Year,Wildlife Photographer of the Year,MISC,,,fr,1
@@ -182,9 +194,11 @@ Champion suédois de l’acier vert,Champion suédois de l’acier vert,MISC,,,f
 Northvolt,Northvolt,MISC,,,fr,1
 ladministration Trump,ladministration Trump,MISC,,,fr,1
 lApple Watch SE 3,lApple Watch SE 3,MISC,,,fr,1
+CH4,CH4,MISC,0.13214285714285715,0.33571428571428574,fr,1
+RossRoss,RossRoss,MISC,,,fr,1
 lAssemblée,lAssemblée,MISC,,,fr,1
-Eco |,Eco |,MISC,,,fr,1
 Toussaint”,Toussaint”,MISC,,,fr,1
+Le cessez-le-feu dans la bande de Gaza,Le cessez-le-feu dans la bande de Gaza,MISC,,,fr,1
 XIIᵉ,XIIᵉ,MISC,,,fr,1
 XIIe,XIIe,MISC,,,fr,1
 Etats-Unis sinquiètent,Etats-Unis sinquiètent,MISC,,,fr,1
@@ -193,19 +207,30 @@ La trêve,La trêve,MISC,,,fr,1
 LUkraine,LUkraine,MISC,,,fr,1
 20 Minutes,20 Minutes,MISC,,,fr,1
 Au Moyen,Au Moyen,MISC,,,fr,1
+Maison-Blanche,Maison-Blanche,MISC,,,fr,1
 Proche,Proche,MISC,,,fr,1
-Le cessez-le-feu dans la bande de Gaza,Le cessez-le-feu dans la bande de Gaza,MISC,,,fr,1
-deuxième Intifada,deuxième Intifada,MISC,,,fr,1
-FRED TANNEAU,FRED TANNEAU,MISC,,,fr,1
-Under An,Under An,MISC,,,fr,1
-dAchille,dAchille,MISC,,,fr,1
-Zucman ,Zucman ,MISC,,,fr,1
-X,X,MISC,0.11,0.45,fr,1
+"Google Actualités
+Partager
+ Sabonner 
+","Google Actualités
+Partager
+ Sabonner 
+",MISC,,,fr,1
+Libération »,Libération »,MISC,,,fr,1
+Nathan,Nathan,MISC,,,fr,1
+LOEB,LOEB,MISC,,,fr,1
+Étienne,Étienne,MISC,,,fr,1
+Sa,Sa,MISC,,,fr,1
+Halloween,Halloween,MISC,,,fr,1
+Titanic Experience,Titanic Experience,MISC,,,fr,1
+Titanic,Titanic,MISC,,,fr,1
+Dans un message,Dans un message,MISC,,,fr,1
 Twitter,Twitter,MISC,,,fr,1
 NOAM,NOAM,MISC,,,fr,1
 Eglise principale d’Ulm,Eglise principale d’Ulm,MISC,,,fr,1
 tour de Jésus,tour de Jésus,MISC,,,fr,1
-LOEB,LOEB,MISC,,,fr,1
+Problème:,Problème:,MISC,,,fr,1
+lÉlysée,lÉlysée,MISC,,,fr,1
 missiles Patriot »,missiles Patriot »,MISC,,,fr,1
 Made In France,Made In France,MISC,,,fr,1
 lAntarctique,lAntarctique,MISC,,,fr,1
@@ -218,33 +243,30 @@ Prix Pulitzer 2024,Prix Pulitzer 2024,MISC,,,fr,1
 "LEGENDRE
 ","LEGENDRE
 ",MISC,,,fr,1
-Nathan,Nathan,MISC,,,fr,1
-Prix Leica,Prix Leica,MISC,,,fr,1
-The Two Walls,The Two Walls,MISC,,,fr,1
-Dolus,Dolus,MISC,,,fr,1
-Honda Civic,Honda Civic,MISC,,,fr,1
-Dans un message,Dans un message,MISC,,,fr,1
-Titanic,Titanic,MISC,,,fr,1
-Titanic Experience,Titanic Experience,MISC,,,fr,1
-Russe,Russe,MISC,-0.020999999999999998,0.0975,fr,1
+Miss Univers 2025 : mères de famille,Miss Univers 2025 : mères de famille,MISC,,,fr,1
+Dragon Ball Z,Dragon Ball Z,MISC,,,fr,1
+87e prix Albert Londres,87e prix Albert Londres,MISC,,,fr,1
+Premier ministre de la Jamaïque,Premier ministre de la Jamaïque,MISC,,,fr,1
+concile Vatican II,concile Vatican II,MISC,,,fr,1
+Vendée Globe,Vendée Globe,MISC,,,fr,1
+Transat,Transat,MISC,,,fr,1
+FRED TANNEAU,FRED TANNEAU,MISC,,,fr,1
+Under An,Under An,MISC,,,fr,1
+dAchille,dAchille,MISC,,,fr,1
 La guerre des voisins,La guerre des voisins,MISC,,,fr,1
 Masters 1000 de Paris,Masters 1000 de Paris,MISC,,,fr,1
 Master,Master,MISC,,,fr,1
 lEmmanuel,lEmmanuel,MISC,,,fr,1
-Premier ministre de la Jamaïque,Premier ministre de la Jamaïque,MISC,,,fr,1
 ouragan Mellissa,ouragan Mellissa,MISC,,,fr,1
+Ugo Bienvenu ,Ugo Bienvenu ,MISC,,,fr,1
 OCTAVIO JONES,OCTAVIO JONES,MISC,,,fr,1
 lIslande,lIslande,MISC,,,fr,1
 ouragan Gordon,ouragan Gordon,MISC,,,fr,1
+Russe,Russe,MISC,-0.020999999999999998,0.0975,fr,1
 États profonds,États profonds,MISC,,,fr,1
-Halloween,Halloween,MISC,,,fr,1
 États profonds britannique,États profonds britannique,MISC,,,fr,1
+ISRAËL,ISRAËL,MISC,,,fr,1
 Fin du cessez-le-feu,Fin du cessez-le-feu,MISC,,,fr,1
 Katrina Louragan Melissa,Katrina Louragan Melissa,MISC,,,fr,1
 Le Premier ministre,Le Premier ministre,MISC,,,fr,1
-Ugo Bienvenu ,Ugo Bienvenu ,MISC,,,fr,1
-Dragon Ball Z,Dragon Ball Z,MISC,,,fr,1
-Miss Univers 2025 : mères de famille,Miss Univers 2025 : mères de famille,MISC,,,fr,1
-Étienne,Étienne,MISC,,,fr,1
-Sa,Sa,MISC,,,fr,1
 Premier ministre Netanyahou,Premier ministre Netanyahou,MISC,,,fr,1
