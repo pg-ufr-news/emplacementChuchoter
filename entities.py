@@ -81,20 +81,20 @@ def searchGeonamesByNameAndLanguage(locationName, lang):
           result['country'] = list(whichCountry['Country'])[0]
        #get gnd
        found = False 
-       result['gnd'] = None
+       result['gnd'] = ''
        gnd = searchGndByGeonamesId(result['geonames'])
        if(gnd and 'gndId' in gnd):
-         result['gnd'] = gnd['gndId']
+         result['gnd'] = str(gnd['gndId'])
          found = True
        if(not found):
          gnd = searchGndByNameAndGeo(locationName, result['latitude'], result['longitude'])
          if(gnd and 'gndId' in gnd):
-           result['gnd'] = gnd['gndId']
+           result['gnd'] = str(gnd['gndId'])
            found = True
        if(not found):
          gnd = searchGndByName(locationName)
          if(gnd and 'gndId' in gnd):
-           result['gnd'] = gnd['gndId']
+           result['gnd'] = str(gnd['gndId'])
            found = True
     #print(result)
     return result
