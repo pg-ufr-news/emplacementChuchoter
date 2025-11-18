@@ -467,6 +467,7 @@ indexPersonsDF.to_csv(DATA_PATH / 'csv' / "sentiments_persons.csv", index=True)
 
 colNewLocations =  ['phrase', 'label', 'sentiment', 'subjectivity', 'language', 'count', 'topicColor', 'keywordColor', 'continent', 'gnd', 'geonames', 'latitude', 'longitude', 'geotype', 'country', 'ipcc']
 for location in indexNewLocations:
+   print(location)
    if( indexNewLocations[location]['count'] > 9): 
       lang = indexNewLocations[location]['language']
       moreData = searchGeonamesByNameAndLanguage(location, lang)  
