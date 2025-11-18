@@ -396,22 +396,23 @@ for index, column in objNewsDF.iterrows():
         for entity in doc.ents:
 
             if(entity.label_ in ['LOC','GPE']):
-                if(entity.text in indexLocations):
-                    indexLocations[entity.text]['count'] += 1
-                    indexLocations[entity.text]['sentiment'] += polarity
-                    indexLocations[entity.text]['subjectivity'] += subjectivity
+                locationText = entity.text.strip()
+                if(locationText in indexLocations):
+                    indexLocations[locationText]['count'] += 1
+                    indexLocations[locationText]['sentiment'] += polarity
+                    indexLocations[locationText]['subjectivity'] += subjectivity
                 else:      
        
-                    indexLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':polarity,
+                    indexLocations[locationText] = {'phrase':locationText, 'label':entity.label_, 'sentiment':polarity,
                                                    'subjectivity':subjectivity, 'language':lang,'count':1}
 
-                if(not locationInSearch(entity.text) and (column.age < 60)):
-                  if(entity.text in indexNewLocations):
-                    indexNewLocations[entity.text]['count'] += 1
-                    indexNewLocations[entity.text]['sentiment'] += polarity
-                    indexNewLocations[entity.text]['subjectivity'] += subjectivity
+                if(not locationInSearch(locationText) and (column.age < 60)):
+                  if(locationText in indexNewLocations):
+                    indexNewLocations[locationText]['count'] += 1
+                    indexNewLocations[locationText]['sentiment'] += polarity
+                    indexNewLocations[locationText]['subjectivity'] += subjectivity
                   else:    
-                    indexNewLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':polarity,
+                    indexNewLocations[locationText] = {'phrase':locationText, 'label':entity.label_, 'sentiment':polarity,
                                                  'subjectivity':subjectivity, 'language':lang, 'count':1}  
 
             elif(entity.label_ in ['PER','PERSON']):
