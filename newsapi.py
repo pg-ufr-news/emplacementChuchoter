@@ -73,14 +73,16 @@ def addNewLocations(urlNames, keyDF, newRatio=0.5,language='fr', limitCount=9):
     stream=requests.get(urlNames).content
     newDF=pd.read_csv(io.StringIO(stream.decode('utf-8')), delimiter=',')
     newDF = newDF.dropna()
+    print(['newDF',newDF])
     if(not newDF.empty):
      newDF = newDF[(newDF['count'] > limitCount)]
      if(not newDF.empty):
       for index, column in newDF.iterrows():
-        newPhrase = "'" + column['phrase'] + "'" 
+        newPhrase = "'" + column['phrase'] + "'"
+        print(['newPhrase',newPhrase]) 
         if(not newPhrase in keyDF['keyword'].unique()):
           newData = {'keyword':newPhrase, 'language':column['language'], 'topic':column['country'], 'topicColor':column['topicColor'], 'keywordColor':column['keywordColor'], 'limitPages':2, 'ratioNew':(newRatio+random.random()/10000+column['count']/1000), 'continent':column['continent'], 'gnd':column['gnd'], 'geonames':column['geonames'], 'latitude':column['latitude'], 'longitude':column['longitude'], 'geotype':column['geotype'], 'country':column['country'], 'ipcc':column['ipcc']}
-          ##print(newData)  
+          print(newData)  
           keyDF = pd.concat([keyDF, pd.DataFrame([newData])], ignore_index=True)
     return keyDF
 
