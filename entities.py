@@ -482,7 +482,9 @@ for location in indexNewLocations:
          indexNewLocations[location]['geotype'] = moreData['geotype']
          indexNewLocations[location]['country'] = moreData['country']
          indexNewLocations[location]['ipcc'] = moreData['ipcc']
+print(['indexNewLocations',indexNewLocations])
 indexNewLocationsDF = pd.DataFrame.from_dict(indexNewLocations, orient='index', columns=colNewLocations)
+print(indexNewLocationsDF)
 indexNewLocationsDF['sentiment'] = indexNewLocationsDF['sentiment']/indexNewLocationsDF['count']
 indexNewLocationsDF['subjectivity'] = indexNewLocationsDF['subjectivity']/indexNewLocationsDF['count']
 indexNewLocationsDF = indexNewLocationsDF.sort_values(by=['count'], ascending=False)
