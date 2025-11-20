@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Adamstown',fr,Pitcairn,#b29713,#b29713,1,0.722500000000,PACIFIC,,4030723,-25.065970000000,-130.101470000000,P,Pitcairn,SPO
 'Grytviken',fr,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.722500000000,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
 'Île Heard et îles McDonald',fr,Heard Island and McDonald Islands,#250d79,#250d79,1,0.722500000000,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
-'Port-aux-Français',fr,French Southern Territories,#210e80,#210e80,3,0.720529866900,SOUTHERN,,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
-'Jérusalem-Est',fr,Palestinian Territory,#5a96ec,#5a96ec,3,0.702681061655,EUROPE-AFRICA,,6254930,31.921570000000,35.203290000000,A,Palestine,MED
-'Territoire palestinien',fr,Palestinian Territory,#879448,#879448,3,0.701936870099,EUROPE-AFRICA,,6254930,31.921570000000,35.203290000000,A,Palestine,MED
+'Port-aux-Français',fr,French Southern Territories,#210e80,#210e80,3,0.0720529866900,SOUTHERN,,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
+'Jérusalem-Est',fr,Palestinian Territory,#5a96ec,#5a96ec,3,0.0702681061655,EUROPE-AFRICA,,6254930,31.921570000000,35.203290000000,A,Palestine,MED
+'Territoire palestinien',fr,Palestinian Territory,#879448,#879448,3,0.0701936870099,EUROPE-AFRICA,,6254930,31.921570000000,35.203290000000,A,Palestine,MED
 'Charlotte-Amélie',fr,U.S. Virgin Islands,#0EAD55,#0EAD55,2,0.687971694000,CENTRAL-AMERICA,4229389-3,4796512,17.727510000000,-64.746980000000,P,U.S. Virgin Islands,CAR
 'Ouest-de-l'Île',fr,Cocos Islands,#1e0e80,#1e0e80,2,0.665698986406,SOUTHERN,,1546171,-49.348180000000,68.710600000000,T,French Southern Territories,SOO
 'Guatemala-ville',fr,Guatemala,#74C8D9,#74C8D9,1,0.661495928587,CENTRAL-AMERICA,4022428-4,3595528,15.500000000000,-90.250000000000,A,Guatemala,SCA
