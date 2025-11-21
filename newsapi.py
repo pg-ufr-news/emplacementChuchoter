@@ -691,7 +691,7 @@ keywordsDF = addNewLocations('https://raw.githubusercontent.com/pg-ufr-news/empl
 keywordsDF['geonames'] = keywordsDF['geonames'].astype(int)
 keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.05)]
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
-keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
+keywordsDF = keywordsDF.sort_values(by=['ratioNew', 'keyword'], ascending=False)
 keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False, float_format='%.12f')  
 
 '''
