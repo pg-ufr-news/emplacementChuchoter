@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.615468348178,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
 'Géorgie du Sud et îles Sandwich du Sud',fr,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.614702480394,SOUTHERN,,3474415,-56.000000000000,-33.000000000000,A,Géorgie du Sud-et-les îles Sandwich du Sud,SOO
 'Île Heard et îles McDonald',fr,Heard Island and McDonald Islands,#250d79,#250d79,1,0.614125000000,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Île Bouvet',fr,Bouvet Island,#0d7076,#0d7076,1,0.614125000000,SOUTHERN,,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Koweït ville',fr,Kuwait,#9EAEB4,#9EAEB4,1,0.532269749648,ASIA,4073919-3,285570,29.500000000000,47.750000000000,A,Kuwait,ARP
 'Cisjordanie',fr,Palestinian Territory,#5b97ec,#5b97ec,2,0.527609146629,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
 'Cité du Vatican',fr,Vatican,#6ed4ee,#6ed4ee,2,0.523359223099,EUROPE-AFRICA,4062404-3,6691831,41.902680000000,12.454140000000,P,Vatican,MED
+'Îles mineures éloignées des États-Unis',fr,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.523148095951,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,Îles mineures éloignées des États-Unis,EPO
 'Caraïbes',fr,Guadeloupe,#3ee93a,#3ee93a,2,0.519616670760,CENTRAL-AMERICA,4073241-1,11571757,16.241160000000,-61.319000000000,L,Guadeloupe,CAR
 'Pitcairn',fr,Pitcairn,#b29713,#b29713,2,0.514510913587,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn,SPO
 'Gaza',fr,Palestinian Territory,#5998ec,#5998ec,2,0.508435800427,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
